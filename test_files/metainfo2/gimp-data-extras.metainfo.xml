@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>gimp-data-extras</id>
+  <extends>org.gimp.GIMP</extends>
+  <name>Extra files for GIMP</name>
+  <name xml:lang="ca">Fitxers extres pel GIMP</name>
+  <name xml:lang="ca@valencia">Fitxers addicionals per al GIMP</name>
+  <name xml:lang="cs">Doplňkové soubory pro GIMP</name>
+  <name xml:lang="da">Ekstrafiler til GIMP</name>
+  <name xml:lang="de">Zusätzliche Dateien für GIMP</name>
+  <name xml:lang="el">Πρόσθετα αρχεία για το GIMP</name>
+  <name xml:lang="en_GB">Extra files for GIMP</name>
+  <name xml:lang="es">Archivos adicionales de GIMP</name>
+  <name xml:lang="eu">Fitxategi gehigarriak GIMPerako</name>
+  <name xml:lang="fi">GIMPin lisätiedostoja</name>
+  <name xml:lang="fr">Fichiers en supplément pour GIMP.</name>
+  <name xml:lang="gl">Ficheiros adicinais para GIMP</name>
+  <name xml:lang="hr">Dodatne datoteke za GIMP</name>
+  <name xml:lang="hu">További szűrők a GIMP-hez</name>
+  <name xml:lang="is">Aukaskrár fyrir GIMP</name>
+  <name xml:lang="it">File extra per GIMP</name>
+  <name xml:lang="ko">김프 추가 파일</name>
+  <name xml:lang="lt">Papildomi failai GIMP</name>
+  <name xml:lang="lv">Papildu GIMP datnes</name>
+  <name xml:lang="mr">गिम्पसाठी अतिरिक्त धारिका</name>
+  <name xml:lang="nl">Extra bestanden voor GIMP</name>
+  <name xml:lang="pl">Dodatkowe pliki dla programu GIMP</name>
+  <name xml:lang="pt">Ficheiros extra para o GIMP</name>
+  <name xml:lang="pt_BR">Arquivos extras para o GIMP</name>
+  <name xml:lang="ro">Fișiere suplimentare pentru GIMP</name>
+  <name xml:lang="ru">Дополнительные файлы для GIMP</name>
+  <name xml:lang="sl">Dodatne datoteke za GIMP</name>
+  <name xml:lang="sr">Додатне датотеке за Гимп</name>
+  <name xml:lang="sr@latin">Dodatne datoteke za Gimp</name>
+  <name xml:lang="sv">Extrafiler för GIMP</name>
+  <name xml:lang="tr">GIMP için ilave dosyalar</name>
+  <name xml:lang="uk">Додаткові файли для GIMP</name>
+  <name xml:lang="vi">Các tập tin mở rộng cho GIMP</name>
+  <name xml:lang="zh_CN">GIMP 的额外文件</name>
+  <name xml:lang="zh_TW">GIMP 的額外檔案</name>
+  <summary>Patterns, gradients, and other extra files for GIMP</summary>
+  <summary xml:lang="ca">Patrons, degradats i altres fitxers addicionals pel GIMP</summary>
+  <summary xml:lang="ca@valencia">Patrons, degradats i altres fitxers addicionals per al GIMP</summary>
+  <summary xml:lang="cs">Vzorky, přechody a další doplňkové soubory pro GIMP</summary>
+  <summary xml:lang="da">Mønstre, farveovergange og andre ekstrafiler til GIMP</summary>
+  <summary xml:lang="de">Muster, Farbverläufe und weitere zusätzliche Dateien für GIMP</summary>
+  <summary xml:lang="el">Μοτίβα, διαβαθμίσεις και άλλα πρόσθετα αρχεία για το GIMP</summary>
+  <summary xml:lang="en_GB">Patterns, gradients, and other extra files for GIMP</summary>
+  <summary xml:lang="es">Patrones, degradados y otros archivos adicionales para GIMP</summary>
+  <summary xml:lang="eu">GIMPerako ereduak, gradienteak eta beste fitxategi gehigarri batzuk</summary>
+  <summary xml:lang="fi">Kuvioita, liukuvärejä ja muita lisätiedostoja GIMPille</summary>
+  <summary xml:lang="fr">Motifs, dégradés et autres fichiers supplémentaires pour GIMP.</summary>
+  <summary xml:lang="gl">Patróns, gradacións e outros ficheiros adicinais para GIMP</summary>
+  <summary xml:lang="hr">Uzorci, gradijenti i ostale dodatne datoteke za GIMP</summary>
+  <summary xml:lang="hu">Minták, színátmenetek és egyéb további fájlok a GIMP-hez</summary>
+  <summary xml:lang="is">Mynstur, litstiglar og aðrar aukaskrár fyrir GIMP</summary>
+  <summary xml:lang="it">Motivi, gradienti ed altri file extra per GIMP</summary>
+  <summary xml:lang="lt">Papildomi raštai, gradientai ir kiti failai skirti GIMP</summary>
+  <summary xml:lang="lv">Raksti, krāsu pārejas un citas papildu datnes GIMP lietotnei</summary>
+  <summary xml:lang="mr">गिम्पसाठीसाठी नमुने, रंगछटा आणि इतर अतिरिक्त धारिका</summary>
+  <summary xml:lang="nl">Patronen, kleurverlopen en andere extra bestanden voor GIMP</summary>
+  <summary xml:lang="pl">Desenie, gradienty i inne dodatkowe pliki dla programu GIMP</summary>
+  <summary xml:lang="pt">Texturas, gradientes e outros ficheiros extra para o GIMP</summary>
+  <summary xml:lang="ro">Modele, degradeuri și alte fișiere suplimentare pentru GIMP</summary>
+  <summary xml:lang="ru">Текстуры, градиенты и другие дополнительные файлы для GIMP</summary>
+  <summary xml:lang="sl">Vzorci, prelivi in druge dodatne datoteke za GIMP</summary>
+  <summary xml:lang="sr">Шаре, преливи и остале датотеке за Гимп</summary>
+  <summary xml:lang="sr@latin">Šare, prelivi i ostale datoteke za Gimp</summary>
+  <summary xml:lang="sv">Mönster, gradienter och andra extrafiler för GIMP</summary>
+  <summary xml:lang="tr">GIMP için desenler, renk geçişleri ve diğer ilave dosyalar</summary>
+  <summary xml:lang="uk">Взірці текстур, градієнти та інші додаткові файли для GIMP</summary>
+  <summary xml:lang="vi">Các mẫu, gradients và các tập tin mở rộng dành cho GIMP</summary>
+  <summary xml:lang="zh_CN">GIMP 的图案、渐变和其他额外文件</summary>
+  <summary xml:lang="zh_TW">GIMP 的圖樣，漸層和其他額外的檔案</summary>
+  <url type="homepage">https://www.gimp.org/</url>
+  <url type="bugtracker">https://bugs.launchpad.net/ubuntu/+source/gimp/+filebug?no-redirect</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <update_contact>alexandre.prokoudine@gmail.com</update_contact>
+</component>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyleft 2015 Georges Basile Stavracas Neto <georges.stavracas@gmail.com> -->
+<component type="desktop">
+  <id>org.gnome.Todo.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>To Do</name>
+  <name xml:lang="zh_TW">待辦事項</name>
+  <name xml:lang="zh_CN">待办事项</name>
+  <name xml:lang="uk">Треба зробити</name>
+  <name xml:lang="vi">Việc cần làm</name>
+  <name xml:lang="tr">To Do</name>
+  <name xml:lang="sv">Uppgifter</name>
+  <name xml:lang="sr@latin">Rokovnik</name>
+  <name xml:lang="sr">Роковник</name>
+  <name xml:lang="sl">To Do</name>
+  <name xml:lang="sk">Úlohy</name>
+  <name xml:lang="ru">To Do</name>
+  <name xml:lang="ro">To Do</name>
+  <name xml:lang="pt_BR">Tarefas</name>
+  <name xml:lang="pt">A fazer</name>
+  <name xml:lang="pl">Zadania</name>
+  <name xml:lang="pa">ਟੂ ਡੂ</name>
+  <name xml:lang="oc">To Do</name>
+  <name xml:lang="nl">Taken</name>
+  <name xml:lang="ne">गर्नुपर्ने</name>
+  <name xml:lang="nb">Oppgaver</name>
+  <name xml:lang="lv">Darāmie darbi</name>
+  <name xml:lang="lt">Darbai</name>
+  <name xml:lang="ko">일정 관리</name>
+  <name xml:lang="kk">To Do</name>
+  <name xml:lang="ja">To Do</name>
+  <name xml:lang="it">To Do</name>
+  <name xml:lang="is">Verkefnastýring</name>
+  <name xml:lang="id">To Do</name>
+  <name xml:lang="hu">Tennivalók</name>
+  <name xml:lang="hr">Popis zadataka</name>
+  <name xml:lang="he">משימות</name>
+  <name xml:lang="gl">Tarefas</name>
+  <name xml:lang="fur">Di fâ</name>
+  <name xml:lang="fr">To Do</name>
+  <name xml:lang="fi">Tehtävät</name>
+  <name xml:lang="fa">فعالیت</name>
+  <name xml:lang="eu">Egitekoak</name>
+  <name xml:lang="et">Ülesanded</name>
+  <name xml:lang="es">Tareas pendientes</name>
+  <name xml:lang="eo">Taskoj</name>
+  <name xml:lang="en_GB">To Do</name>
+  <name xml:lang="el">Εργασίες</name>
+  <name xml:lang="de">Aufgaben</name>
+  <name xml:lang="da">To Do</name>
+  <name xml:lang="cs">Úkoly</name>
+  <name xml:lang="ca@valencia">Per fer</name>
+  <name xml:lang="ca">Per fer</name>
+  <name xml:lang="be">To Do</name>
+  <name xml:lang="ar">المهام</name>
+  <name xml:lang="af">Beplanner</name>
+  <summary>Task manager for GNOME</summary>
+  <summary xml:lang="zh_TW">GNOME 待辦事項管理員</summary>
+  <summary xml:lang="zh_CN">GNOME 待办事项管理器</summary>
+  <summary xml:lang="uk">Менеджер завдань для GNOME</summary>
+  <summary xml:lang="vi">Ứng dụng quản lý các nhiệm vụ dành cho môi trường GNOME</summary>
+  <summary xml:lang="tr">GNOME için görev yöneticisi</summary>
+  <summary xml:lang="sv">Uppgiftshanterare för GNOME</summary>
+  <summary xml:lang="sr@latin">Upravnik zadataka za Gnom</summary>
+  <summary xml:lang="sr">Управник задатака за Гном</summary>
+  <summary xml:lang="sl">Upravljalnik nalog za GNOME</summary>
+  <summary xml:lang="sk">Správca úloh prostredia GNOME</summary>
+  <summary xml:lang="ru">Менеджер задач для GNOME</summary>
+  <summary xml:lang="ro">Administrator de sarcini pentru GNOME</summary>
+  <summary xml:lang="pt_BR">Gerenciador de tarefas para o GNOME</summary>
+  <summary xml:lang="pt">Gestor de tarefas para o GNOME</summary>
+  <summary xml:lang="pl">Menedżer zadań dla środowiska GNOME</summary>
+  <summary xml:lang="pa">ਗਨੋਮ ਲਈ ਕੰਮ ਮੈਨੇਜਰ</summary>
+  <summary xml:lang="oc">Lo gestionari de prètzfaits de GNOME</summary>
+  <summary xml:lang="nl">Taakbeheer voor Gnome</summary>
+  <summary xml:lang="ne">जिनोमको क‍ार्य प्रबन्धक</summary>
+  <summary xml:lang="nb">Oppgavestyring for GNOME</summary>
+  <summary xml:lang="lv">GNOME uzdevumu pārvaldnieks</summary>
+  <summary xml:lang="lt">Užduočių programa GNOME aplinkai</summary>
+  <summary xml:lang="ko">그놈용 일정 관리 프로그램</summary>
+  <summary xml:lang="kk">GNOME үшін тапсырмалар басқарушысы</summary>
+  <summary xml:lang="ja">GNOME のためのタスクマネージャー</summary>
+  <summary xml:lang="it">Gestione delle attività per GNOME</summary>
+  <summary xml:lang="is">Verkefnastjóri fyrir GNOME</summary>
+  <summary xml:lang="id">Manajer tugas untuk GNOME</summary>
+  <summary xml:lang="hu">Tennivaló-kezelő a GNOME-hoz</summary>
+  <summary xml:lang="hr">Upravitelj zadataka za GNOME</summary>
+  <summary xml:lang="he">מנהל משימות עבור GNOME</summary>
+  <summary xml:lang="gl">Xestor de tarefas para GNOME</summary>
+  <summary xml:lang="fur">Gjestôr des ativitâts par GNOME</summary>
+  <summary xml:lang="fr">Gestionnaire de tâches de GNOME</summary>
+  <summary xml:lang="fi">Tehtävien hallinta Gnomelle</summary>
+  <summary xml:lang="fa">مدیریت فعالیت‌ها برای گنوم</summary>
+  <summary xml:lang="eu">GNOMEren Egitekoen kudeatzailea</summary>
+  <summary xml:lang="et">Ülesandehaldur GNOME’ile</summary>
+  <summary xml:lang="es">Gestor de tareas para GNOME</summary>
+  <summary xml:lang="en_GB">Task manager for GNOME</summary>
+  <summary xml:lang="el">Διαχειριστής εργασιών για το GNOME</summary>
+  <summary xml:lang="de">Aufgabenverwaltung für GNOME</summary>
+  <summary xml:lang="da">Opgavehåndtering til GNOME</summary>
+  <summary xml:lang="cs">Správa úkolů pro GNOME</summary>
+  <summary xml:lang="ca@valencia">Un gestor de tasques per al GNOME</summary>
+  <summary xml:lang="ca">Un gestor de tasques per al GNOME</summary>
+  <summary xml:lang="be">Кіраўнік задачамі для GNOME</summary>
+  <summary xml:lang="ar">مدير مهام لجنوم</summary>
+  <summary xml:lang="af">Beplanner vir GNOME</summary>
+  <description>
+    <p>
+      GNOME To Do is a task management application designed to integrate with GNOME. It
+      is extensible through plugins and supports custom task providers.
+    </p>
+    <p xml:lang="zh_TW">GNOME《待辦事項》是個與 GNOME 良好整合的簡單事項管理應用程式。它可以透過外掛程式擴充並且支援自訂的事項提供程式。</p>
+    <p xml:lang="zh_CN">GNOME 待办事项是一个待办事项管理应用程序，为与 GNOME 集成而设计。它可以通过插件扩展，并且支持自定义任务提供者。</p>
+    <p xml:lang="uk">Треба Зробити GNOME — проста програма для керування завданнями, яка інтегрована з GNOME. Її можна розширити додатками і підтримкою інших постачальників завдань.</p>
+    <p xml:lang="vi">GNOME Todo là ứng dụng quản lý nhiệm vụ đơn giản được thiết kế để hợp nhất với GNOME. Nó được mở rộng thông qua các phần bổ sung và hỗ trợ từ các nhà cung cấp nhiệm vụ tùy chỉnh.</p>
+    <p xml:lang="tr">GNOME To Do, GNOME ile tümleşecek şekilde tasarlanmış görev yönetimi uygulamasıdır. Eklentilerle genişletilebilir ve özel görev sağlayıcılarını destekler.</p>
+    <p xml:lang="sv">GNOME Uppgifter är ett uppgiftshanteringsprogram som är designat att integrera med GNOME. Det är utökningsbart genom insticksmoduler och stöder anpassade uppgiftsleverantörer.</p>
+    <p xml:lang="sr@latin">Gnomov Rokovnik je program za upravljanje zadacima osmišljen da se uklopi u Gnom. Može se proširiti pomoću priključaka i podržava proizvoljne dostavljače zadataka.</p>
+    <p xml:lang="sr">Гномов Роковник је програм за управљање задацима осмишљен да се уклопи у Гном. Може се проширити помоћу прикључака и подржава произвољне достављаче задатака.</p>
+    <p xml:lang="sl">Program GNOME To Do je enostaven program za vodenje in opravljanje nalog. Razširljiv je z različnimi vstavki in podpira različne spletne sisteme.</p>
+    <p xml:lang="sk">Úlohy prostredia GNOME je aplikácia na správu úloh, integrovaná s prostredím GNOME. Je rozšíriteľná prostredníctvom zásuvných modulov a podporuje vlastných poskytovateľov úloh.</p>
+    <p xml:lang="ru">GNOME To Do — приложение для управления задачами, разработанное для использования в GNOME. Оно может расширяться с помощью модулей и поддерживает внешние службы задач.</p>
+    <p xml:lang="ro">GNOME To Do este o aplicație de administrare a sarcinilor proiectată pentru a se integra cu GNOME.</p>
+    <p xml:lang="pt_BR">O GNOME Tarefas é um aplicativo de gerenciamento de tarefas projetado para integrar com o GNOME. Ele é extensível através de plug-ins e possui suporte a fornecedores personalizados de tarefas.</p>
+    <p xml:lang="pl">Menedżer zadań GNOME to prosty program do zarządzania zadaniami, zaprojektowany do integracji ze środowiskiem GNOME. Jest rozszerzalny za pomocą wtyczek i obsługuje niestandardowych dostawców list zadań.</p>
+    <p xml:lang="pa">ਗਨੋਮ ਟੂ ਡੂ ਗਨੋਮ ਨਾਲ ਏਕੀਕ੍ਰਿਤ ਰੂਪ ਵਿੱਚ ਡਿਵਾਇਨ ਕੀਤੀ ਕੰਮ ਪ੍ਰਬੰਧ ਐਪਲੀਕੇਸ਼ਨ ਹੈ। ਇਸ ਨੂੰ ਪਲੱਗਇਨ ਰਾਹੀਂ ਫੈਲਾਉਣਯੋਗ ਅਤੇ ਕਸਟਮ ਕੰਮ ਪਰੋਵਾਇਡਰ ਸਹਾਇਕ ਹੈ।</p>
+    <p xml:lang="oc">GNOME To Do es un gestionari de prètzfaits destinat a èsser integrat dins GNOME. Es extensible pel biais d'empeutons e pren en carga los provesidors de prètzfaits personalizats.</p>
+    <p xml:lang="nl">Gnome Taken is een taakbeheerprogramma ontworpen om te integreren in Gnome. Het is uitbreidbaar via plug-ins en ondersteunt aangepaste taakdiensten.</p>
+    <p xml:lang="nb">GNOME oppgaver er et enkelt program for oppgavestyring som er integrert med GNOME. Det kan utvides gjennom tillegg og støtter egendefinerte oppgavetilbydere.</p>
+    <p xml:lang="lv">“GNOME darāmie darbi” ir uzdevumu pārvaldnieks, kas ir integrēts ar GNOME vidi. To var paplašināt ar spraudņiem un tas atbalsta pielāgotus uzdevumu pakalpojumu sniedzējus.</p>
+    <p xml:lang="lt">GNOME Darbai yra paprasta užduočių tvarkymo programa, sukurta integracijai su GNOME aplinka. Ji yra plečiama įskiepių pagalba bei palaiko įvairius užduočių tiekėjus.</p>
+    <p xml:lang="ko">그놈 일정 관리는 그놈에 어우러지도록 설계한 간단한 일정 관리 프로그램입니다. 플러그인 기능과 개별 일정 서비스 제공자 지원을 통해 프로그램의 기능을 확장할 수 있습니다.</p>
+    <p xml:lang="kk">GNOME To Do - GNOME ішіне үйлесуге жасалған тапсырмаларды басқарудың қолданбасы. Оның мүмкіндіктерін плагиндер көмегімен арттыруға болады, және де ол тапсырмаларды ұсынушылардың бірнеше түрін қолдайды.</p>
+    <p xml:lang="it">GNOME To Do è un'applicazione di gestione delle attività progettata per integrarsi con GNOME. È estendibile tramite plugin e supporta fornitori personalizzati delle attività.</p>
+    <p xml:lang="is">GNOME-verkefnastýring er </p>
+    <p xml:lang="id">GNOME To Do adalah aplikasi manajemen tugas yang didesain untuk terintegrasi dengan GNOME. Aplikasi ini dapat diperpanjang melalui pengaya dan mendukung penyedia tugas yang tersuai.</p>
+    <p xml:lang="hu">A GNOME Tennivalók egy egyszerű tennivaló-kezelő alkalmazás, amelyet úgy terveztek, hogy illeszkedjen a GNOME-hoz. Kiegészíthető bővítményekkel, és egyéni feladatforrásokat is támogat.</p>
+    <p xml:lang="hr">GNOME upravitelj zadataka je aplikacija upravljanja zadacima dizajnirana za integraciju u GNOME. Proširiva je putem priključaka i omogućuje prilagođene pružatelje usluga zadataka.</p>
+    <p xml:lang="gl">Tarefas de GNOME é un aplicativo de xestión de tarefas deseñado para integrarse con GNOME. É extensíbel mediante engadidos e admite fornecedores de tarefas personalizados.</p>
+    <p xml:lang="fur">GNOME Di fâ e je une aplicazion di gjestion des ativitâts, progjetade par integrâsi cun GNOME. Si pues estindile cun plugin e e supuarte furnidôrs di ativitâts personalizâts.</p>
+    <p xml:lang="fr">GNOME To Do est un gestionnaire de tâches destiné à être intégré dans GNOME. Il est extensible par le biais de greffons et prend en charge les fournisseurs de tâches personnalisés.</p>
+    <p xml:lang="fi">Gnomen tehtäväsovellus on helppokäyttöinen työkalu tehtävien hallintaan. Se on myös laajennettavissa liitännäisten avulla.</p>
+    <p xml:lang="fa">«فعالیت‌های گنوم» یک برنامه مدیریت وظایف است که برای یکپارچگی با گنوم طراحی شده است. کارکردش از طریق افزونه‌ها گسترش پیدا می‌کند و از چندین فراهم‌کنندهٔ پشتیبانی می‌کند.</p>
+    <p xml:lang="eu">GNOMEren Egitekoak zereginak kudeatzeko aplikazio xume bat da GNOMErekin bateratzeko diseinatuta. Pluginen bidez bere funtzionalitatea hedatu dezakezu, eta zereginen hornitzaile pertsonalizatuak onartzen ditu.</p>
+    <p xml:lang="et">GNOME Ülesanded on rakendus täitmist vajavate ülesannete haldamiseks, mis ühildub sujuvalt GNOME’iga. Seda saab laiendada pluginate abil ning see toetab ka väliseid ülesandehaldureid.</p>
+    <p xml:lang="es">Tareas pendientes de GNOME es un sencillo gestor de tareas diseñado para integrarse con GNOME. Se puede ampliar mediante complementos y soporta proveedores de tareas personalizados.</p>
+    <p xml:lang="en_GB">GNOME To Do is a task management application designed to integrate with GNOME. It is extensible through plugins and supports custom task providers.</p>
+    <p xml:lang="el">«Εργασίες GNOME» μια απλή εφαρμογή διαχείρισης εργασιών σχεδιασμένη ώστε να ενσωματώνεται στο GNOME. Είναι επεκτάσιμη μέσω προσθέτων και υποστηρίζει προσαρμοσμένους παρόχους εργασιών.</p>
+    <p xml:lang="de">GNOME Aufgaben ist eine einfache Aufgabenverwaltungsanwendung mit guter Integration in GNOME. Es ist erweiterbar und unterstützt benutzerdefinierte Aufgabenbereitstellung.</p>
+    <p xml:lang="da">GNOME To Do er et simpelt program til opgavehåndtering, designet til integrering med GNOME. Det understøtter udvidelsesmoduler og brugertilpassede opgaveudbydere.</p>
+    <p xml:lang="cs">Úkoly GNOME je aplikace pro správu úkolů navržená tak, aby zapadla do GNOME. Dá se rozšiřovat pomocí zásuvných modulů a podporuje vlastní poskytovatele úkolů.</p>
+    <p xml:lang="ca@valencia">El GNOME Per fer és una aplicació de gestió de tasques simple dissenyada per a integrar-se amb el GNOME. És extensible mitjançant connectors i permet proveïdors de tasques personalitzats.</p>
+    <p xml:lang="ca">El GNOME Per fer és una aplicació de gestió de tasques simple dissenyada per a integrar-se amb el GNOME. És extensible mitjançant connectors i permet proveïdors de tasques personalitzats.</p>
+    <p xml:lang="be">GNOME To Do гэта дастасаванне кіравання задачамі, створанае для інтэграцыі з GNOME. Яно мае магчымасць дапрацоўкі праз праз плугіны і падтрымлівае пастаноўшчыкі нестандартных задач.</p>
+    <p xml:lang="ar">مهام جنوم هو تطبيق إدارة مهام مصمم ليتكامل مع جنوم. يمكن تمديده من خلال الإضافات وهو يدعم أيضا مقدّمي المهام المخصص.</p>
+    <p xml:lang="af">GNOME Beplanner is 'n taakbestuur toepassing ontwerp om te integreer met GNOME. Dit is uitbreibaar met behulp van inproppe en ondersteun verskeie 3'de party dienste.</p>
+  </description>
+  <url type="homepage">https://wiki.gnome.org/Apps/Todo</url>
+  <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-todo</url>
+  <project_group>GNOME</project_group>
+  <screenshots>
+    <screenshot width="1200" height="675">
+      <image>https://git.gnome.org/browse/gnome-todo/plain/data/appdata/dark-theme.png</image>
+      <caption>GNOME To Do with the dark theme variant</caption>
+      <caption xml:lang="zh_TW">GNOME 待辦事項，採暗色主題</caption>
+      <caption xml:lang="vi">Việc cần làm GNOME với biến thể chủ đề tối</caption>
+      <caption xml:lang="tr">Karanlık tema çeşidiyle GNOME To Do</caption>
+      <caption xml:lang="sv">GNOME Uppgifter med den mörka temavarianten</caption>
+      <caption xml:lang="sr@latin">Gnomov Rokovnik sa tamnom temom</caption>
+      <caption xml:lang="sr">Гномов Роковник са тамном темом</caption>
+      <caption xml:lang="sl">Različica programa GNOME ToDo v temni izvedbi</caption>
+      <caption xml:lang="sk">Úlohy prostredia GNOME s tmavým variantom témy</caption>
+      <caption xml:lang="ru">GNOME To Do — вариант с тёмной темой</caption>
+      <caption xml:lang="ro">GNOME To Do cu variantă de temă întunecată</caption>
+      <caption xml:lang="pt_BR">GNOME Tarefas com a variação do tema escuro</caption>
+      <caption xml:lang="pl">Menedżer zadań GNOME w ciemnym motywie</caption>
+      <caption xml:lang="pa">ਗੂੜ੍ਹੇ ਥੀਮ ਰੂਪ ਨਾਲ ਗਨੋਮ ਟੂ ਡੂ</caption>
+      <caption xml:lang="nl">Gnome Taken met de donker thema-variant</caption>
+      <caption xml:lang="nb">GNOME oppgaver med mørk temavariant</caption>
+      <caption xml:lang="lv">“GNOME darāmie darbi” ar tumšo krāsu motīvu</caption>
+      <caption xml:lang="lt">GNOME Darbai su tamsiu temos variantu</caption>
+      <caption xml:lang="ko">다크 테마 버전의 그놈 일정</caption>
+      <caption xml:lang="kk">GNOME To Do, күңгірт тема нұсқасымен</caption>
+      <caption xml:lang="it">GNOME To Do con la variante tema scuro</caption>
+      <caption xml:lang="is">Nota dökkt afbrigði þema</caption>
+      <caption xml:lang="id">GNOME To Do dengan variasi tema gelap</caption>
+      <caption xml:lang="hu">GNOME Tennivalók sötét témaváltozattal</caption>
+      <caption xml:lang="hr">GNOME upravitelj zadataka sa varijantom tamne teme</caption>
+      <caption xml:lang="gl">Tarefas de GNOME coa variante de tema escuro</caption>
+      <caption xml:lang="fur">GNOME Di fâ cun la variant dal teme scûr</caption>
+      <caption xml:lang="fi">Gnomen tehtävien hallinta tumman teeman kera</caption>
+      <caption xml:lang="fa">فعالیت‌های گنوم با تم تاریک</caption>
+      <caption xml:lang="eu">GNOMEren Egitekoak 'Dark' (Iluna) gaiaren aldaerarekin.</caption>
+      <caption xml:lang="et">GNOME Ülesanded teema tumeda variandiga</caption>
+      <caption xml:lang="es">Tareas pendientes de GNOME con la variante oscura del tema</caption>
+      <caption xml:lang="en_GB">GNOME To Do with the dark theme variant</caption>
+      <caption xml:lang="de">GNOME Aufgaben mit dunklem Thema</caption>
+      <caption xml:lang="da">GNOME To Do med mørk temavariant</caption>
+      <caption xml:lang="cs">Úkoly GNOME ve verzi s tmavým motivem</caption>
+      <caption xml:lang="ca@valencia">GNOME Per fer amb la variant d'aparença fosca</caption>
+      <caption xml:lang="ca">GNOME Per fer amb la variant d'aparença fosca</caption>
+      <caption xml:lang="be">Варыянт GNOME To Do з чорнай тэмай</caption>
+      <caption xml:lang="ar">مهام جنوم بسمة مظلمة</caption>
+      <caption xml:lang="af">GNOME Beplanner met 'n donker tema</caption>
+    </screenshot>
+    <screenshot width="1200" height="675">
+      <image>https://git.gnome.org/browse/gnome-todo/plain/data/appdata/editing-tasklist.png</image>
+      <caption>Editing a tasklist with GNOME To Do</caption>
+      <caption xml:lang="zh_TW">以 GNOME 待辦事項編輯事項列表</caption>
+      <caption xml:lang="zh_CN">用 GNOME 待办事项来编辑一个任务列表</caption>
+      <caption xml:lang="uk">Редагування переліку завдань</caption>
+      <caption xml:lang="vi">Sửa một danh sách nhiệm vụ với Việc cần làm GNOME</caption>
+      <caption xml:lang="tr">GNOME To Do ile görev listesini düzenleme</caption>
+      <caption xml:lang="sv">Redigera en uppgiftslista med GNOME Uppgifter</caption>
+      <caption xml:lang="sr@latin">Uređivanje spiska zadataka Gnomovim Rokovnikom</caption>
+      <caption xml:lang="sr">Уређивање списка задатака Гномовим Роковником</caption>
+      <caption xml:lang="sl">Urejanje seznama nalog s programom GNOME ToDo</caption>
+      <caption xml:lang="sk">Úprava zoznamu úloh s aplikáciou Úlohy prostredia GNOME</caption>
+      <caption xml:lang="ru">Правка списка задач с помощью GNOME To Do</caption>
+      <caption xml:lang="ro">Editarea unei liste de sarcini cu GNOME To Do</caption>
+      <caption xml:lang="pt_BR">Editando uma lista de tarefas com o GNOME Tarefas</caption>
+      <caption xml:lang="pl">Modyfikowanie listy zadań za pomocą Menedżera zadań GNOME</caption>
+      <caption xml:lang="pa">ਗਨੋਮ ਟੂ ਡੂ ਨਾਲ ਕੰਮ-ਸੂਚੀ ਨੂੰ ਸੋਧਣਾ</caption>
+      <caption xml:lang="oc">Modificacion d'una lista de prètzfaits amb GNOME To Do</caption>
+      <caption xml:lang="nl">Een takenlijst bewerken met Gnome Taken</caption>
+      <caption xml:lang="nb">Redigerer en oppgaveliste med GNOME oppgaver</caption>
+      <caption xml:lang="lv">Uzdevumu saraksta rediģēšana ar “GNOME darāmajiem darbiem”</caption>
+      <caption xml:lang="lt">Užduočių sąrašo redagavimas naudojant GNOME Darbus</caption>
+      <caption xml:lang="ko">그놈 일정으로 일정 목록을 편집합니다</caption>
+      <caption xml:lang="kk">GNOME To Do көмегімен тапсырмалар тізімін түзету</caption>
+      <caption xml:lang="it">Modifica di un elenco attività con GNOME To Do</caption>
+      <caption xml:lang="is">Breytingar á verkefnalista með GNOME-verkefnastýringu</caption>
+      <caption xml:lang="id">Menyunting daftar tugas dengan GNOME To Do</caption>
+      <caption xml:lang="hu">Feladatlista szerkesztése a GNOME Tennivalókkal</caption>
+      <caption xml:lang="hr">Uređivanje popisa zadataka sa GNOME upraviteljem zadataka</caption>
+      <caption xml:lang="gl">Editar unha lista de tarefas con Tarefas de GNOME</caption>
+      <caption xml:lang="fur">Daûr a modificâ une liste di ativitâts cun GNOME Di fâ</caption>
+      <caption xml:lang="fr">Modification d'une liste de tâches avec GNOME To Do</caption>
+      <caption xml:lang="fi">Tehtävälistan muokkausta</caption>
+      <caption xml:lang="fa">ویرایش یک فهرست فعالیت با «فعالیت‌های گنوم»</caption>
+      <caption xml:lang="eu">Zereginen zerrendaren edizioa 'GNOMEren Egitekoak'-ekin </caption>
+      <caption xml:lang="et">Ülesandeloendi muutmine rakenduses GNOME Ülesanded</caption>
+      <caption xml:lang="es">Editar una lista de tareas con Tareas pendientes de GNOME</caption>
+      <caption xml:lang="en_GB">Editing a tasklist with GNOME To Do</caption>
+      <caption xml:lang="el">Επεξεργασία μιας λίστας εργασιών με το Εργασίες GNOME</caption>
+      <caption xml:lang="de">Bearbeiten einer Aufgabenliste mit GNOME Aufgaben</caption>
+      <caption xml:lang="da">Redigerer en opgaveliste med GNOME To Do</caption>
+      <caption xml:lang="cs">Úkoly GNOME ve verzi s tmavým motivem</caption>
+      <caption xml:lang="ca@valencia">Edició d'una llista de tasques amb el GNOME Per fer</caption>
+      <caption xml:lang="ca">Edició d'una llista de tasques amb el GNOME Per fer</caption>
+      <caption xml:lang="be">Рэдагаванне спіса задач праз GNOME To Do</caption>
+      <caption xml:lang="ar">تحرير قائمة مهام باستخدام مهام جنوم</caption>
+      <caption xml:lang="af">Die redigering van 'n taaklys in GNOME Beplanner</caption>
+    </screenshot>
+    <screenshot width="1200" height="675">
+      <image>https://git.gnome.org/browse/gnome-todo/plain/data/appdata/grid-view.png</image>
+      <caption>Task lists displayed on grid mode</caption>
+      <caption xml:lang="zh_TW">事項列表以格狀模式顯示</caption>
+      <caption xml:lang="zh_CN">网格模式下显示的任务列表</caption>
+      <caption xml:lang="uk">Завдання можна переглядати ґратками</caption>
+      <caption xml:lang="vi">Danh sách được hiển thị ở chế độ lưới</caption>
+      <caption xml:lang="tr">Izgara kipinde görüntülenen görev listesi</caption>
+      <caption xml:lang="sv">Uppgiftslistor visade i rutnätsläge</caption>
+      <caption xml:lang="sr@latin">Spisak zadataka prikazan u režimu ikonica</caption>
+      <caption xml:lang="sr">Списак задатака приказан у режиму иконица</caption>
+      <caption xml:lang="sl">Seznami nalog prikazani na mrežni način</caption>
+      <caption xml:lang="sk">Zoznamy úloh zobrazené v režime mriežky</caption>
+      <caption xml:lang="ru">Списки задач отображаются таблицей</caption>
+      <caption xml:lang="ro">Liste de sarcini afișate pe mod grilă</caption>
+      <caption xml:lang="pt_BR">Lista de tarefas exibida em modo de grade</caption>
+      <caption xml:lang="pl">Listy zadań wyświetlane jako siatka</caption>
+      <caption xml:lang="oc">Lista de prètzfaits afichada en mòde grasilha</caption>
+      <caption xml:lang="nl">Takenlijst weergegeven in rastermodus</caption>
+      <caption xml:lang="nb">Oppgavelister vist i rutenettmodus</caption>
+      <caption xml:lang="lv">Uzdevumu saraksts attēlots režģa režīmā</caption>
+      <caption xml:lang="lt">Užduočių sąrašai yra rodomi tinklelio veiksena</caption>
+      <caption xml:lang="ko">일정 목록을 바둑판 형식으로 표시</caption>
+      <caption xml:lang="kk">Тапсырмалар тізімі тор түрінде көрсетіледі</caption>
+      <caption xml:lang="it">Elenchi delle attività visualizzati in modalità griglia</caption>
+      <caption xml:lang="id">Daftar tugas ditampilkan pada mode grid</caption>
+      <caption xml:lang="hu">A feladatlisták rács módban jelennek meg</caption>
+      <caption xml:lang="hr">Popisi zadataka prikazan u mrežnom prikazu</caption>
+      <caption xml:lang="gl">Listas de tarefas mostradas en modo grella</caption>
+      <caption xml:lang="fur">Listis des ativitâts mostradis te modalitât gridele</caption>
+      <caption xml:lang="fr">Liste de tâches affichée en mode grille</caption>
+      <caption xml:lang="fi">Tehtävälistat ruudukkonäkymässä</caption>
+      <caption xml:lang="fa">فهرست فعالیت‌ها در حالت شبکه‌ای</caption>
+      <caption xml:lang="eu">Zeregin-zerrenda sareta moduan bistaratuta</caption>
+      <caption xml:lang="et">Ülesandeloendid ruudustikvaates</caption>
+      <caption xml:lang="es">Listas de tareas mostradas en modo de rejilla</caption>
+      <caption xml:lang="en_GB">Task lists displayed on grid mode</caption>
+      <caption xml:lang="el">Οι λίστες εργασιών εμφανίζονται σε λειτουργία πλέγματος</caption>
+      <caption xml:lang="de">In einer Gitteransicht angezeigte Aufgabenlisten</caption>
+      <caption xml:lang="da">Opgavelister vises i gittertilstand</caption>
+      <caption xml:lang="cs">Seznam úkolů zobrazený v mřížce</caption>
+      <caption xml:lang="ca@valencia">La llista de tasques es mostra en mode graella</caption>
+      <caption xml:lang="ca">La llista de tasques es mostra en mode graella</caption>
+      <caption xml:lang="be">Спіс задач паказаны ў сетачным рэжыме</caption>
+      <caption xml:lang="ar">قوائم المهام معروضة في وضع الشبكة</caption>
+      <caption xml:lang="af">Taaklyste vertoon in roostermodus</caption>
+    </screenshot>
+    <screenshot width="1200" height="675">
+      <image>https://git.gnome.org/browse/gnome-todo/plain/data/appdata/list-view.png</image>
+      <caption>Task lists displayed on list mode</caption>
+      <caption xml:lang="zh_TW">事項列表以列表模式顯示</caption>
+      <caption xml:lang="zh_CN">列表模式下显示的任务列表</caption>
+      <caption xml:lang="uk">Завдання можна переглядати списком</caption>
+      <caption xml:lang="vi">Danh sách được hiển thị ở chế độ danh sách liệt kê</caption>
+      <caption xml:lang="tr">Liste kipinde görüntülenen görev listesi</caption>
+      <caption xml:lang="sv">Uppgiftslistor visade i listläge</caption>
+      <caption xml:lang="sr@latin">Spisak zadataka prikazan u režimu spiska</caption>
+      <caption xml:lang="sr">Списак задатака приказан у режиму списка</caption>
+      <caption xml:lang="sl">Seznami nalog prikazani na seznamski način</caption>
+      <caption xml:lang="sk">Zoznamy úloh zobrazené v režime zoznamu</caption>
+      <caption xml:lang="ru">Списки задач отображаются списком</caption>
+      <caption xml:lang="ro">Liste de sarcini, afișate pe mod listă</caption>
+      <caption xml:lang="pt_BR">Lista de tarefas exibida em modo de lista</caption>
+      <caption xml:lang="pl">Listy zadań wyświetlane jako lista</caption>
+      <caption xml:lang="oc">Lista de prètzfaits afichada en mòde lista</caption>
+      <caption xml:lang="nl">Takenlijst weergegeven in lijstmodus</caption>
+      <caption xml:lang="nb">Oppgavelister vist i listemodus</caption>
+      <caption xml:lang="lv">Uzdevumu saraksts attēlots saraksta režīmā</caption>
+      <caption xml:lang="lt">Užduočių sąrašai yra rodomi sąrašo veiksena</caption>
+      <caption xml:lang="ko">일정 목록을 목록 형식으로 표시</caption>
+      <caption xml:lang="kk">Тапсырмалар тізімі тізім түрінде көрсетіледі</caption>
+      <caption xml:lang="it">Elenchi delle attività visualizzati in modalità elenco</caption>
+      <caption xml:lang="id">Daftar tugas ditampilkan pada mode daftar</caption>
+      <caption xml:lang="hu">A feladatlisták lista módban jelennek meg</caption>
+      <caption xml:lang="hr">Popisi zadataka prikazan u prikazu popisa</caption>
+      <caption xml:lang="gl">Listas de tarefas mostradas en modo lista</caption>
+      <caption xml:lang="fur">Listis des ativitâts mostradis te modalitât liste</caption>
+      <caption xml:lang="fr">Liste de tâches affichée en mode liste</caption>
+      <caption xml:lang="fi">Tehtävälistat luettelonäkymässä</caption>
+      <caption xml:lang="fa">فهرست فعالیت‌ها در حالت فهرستی</caption>
+      <caption xml:lang="eu">Zeregin-zerrenda zerrenda moduan bistaratuta</caption>
+      <caption xml:lang="et">Ülesandeloendid loendvaates</caption>
+      <caption xml:lang="es">Listas de tareas mostradas en modo de lista</caption>
+      <caption xml:lang="en_GB">Task lists displayed on list mode</caption>
+      <caption xml:lang="el">Οι λίστες εργασιών εμφανίζονται σε λειτουργία λίστας</caption>
+      <caption xml:lang="de">In einer Listenansicht angezeigte Aufgabenlisten</caption>
+      <caption xml:lang="da">Opgavelister vises i listetilstand</caption>
+      <caption xml:lang="cs">Seznam úkolů zobrazený jako seznam</caption>
+      <caption xml:lang="ca@valencia">La llista de tasques es mostra en mode llista</caption>
+      <caption xml:lang="ca">La llista de tasques es mostra en mode llista</caption>
+      <caption xml:lang="be">Спіс задач паказаны ў спісачным рэжыме</caption>
+      <caption xml:lang="ar">قوائم المهام معروضة في وضع القائمة</caption>
+      <caption xml:lang="af">Taaklyste vertoon in lysmodus</caption>
+    </screenshot>
+    <screenshot width="1200" height="675">
+      <image>https://git.gnome.org/browse/gnome-todo/plain/data/appdata/plugins.png</image>
+      <caption>Available plugins for GNOME To Do</caption>
+      <caption xml:lang="zh_TW">GNOME 待辦事項可用的外掛程式</caption>
+      <caption xml:lang="zh_CN">GNOME 待办事项可用的插件</caption>
+      <caption xml:lang="uk">Доступні додатки</caption>
+      <caption xml:lang="vi">Các phần bổ sung sẵn có cho Việc cần làm GNOME</caption>
+      <caption xml:lang="tr">GNOME To Do için kullanılabilir eklentiler</caption>
+      <caption xml:lang="sv">Tillgängliga insticksmoduler för GNOME Uppgifter</caption>
+      <caption xml:lang="sr@latin">Dostupni priključci za Gnomov Rokovnik</caption>
+      <caption xml:lang="sr">Доступни прикључци за Гномов Роковник</caption>
+      <caption xml:lang="sl">Razpoložljivi vstavki za GNome ToDo</caption>
+      <caption xml:lang="sk">Dostupné zásuvné moduly pre aplikáciu Úlohy prostredia GNOME</caption>
+      <caption xml:lang="ru">Доступные модули для GNOME To Do</caption>
+      <caption xml:lang="ro">Extensii disponibile pentru GNOME To Do</caption>
+      <caption xml:lang="pt_BR">Plug-ins disponíveis para o GNOME Tarefas</caption>
+      <caption xml:lang="pl">Dostępne wtyczki dla Menedżera zadań GNOME</caption>
+      <caption xml:lang="pa">ਗਨੋਮ ਟੂ ਡੂ ਲਈ ਉਪਲਬਧ ਪਲੱਗਇਨ</caption>
+      <caption xml:lang="oc">Empeutons disponibles per GNOME To Do</caption>
+      <caption xml:lang="nl">Beschikbare plug-ins voor Gnome Taken</caption>
+      <caption xml:lang="ne">जिनोम टु डु को लागि उपलब्ध प्लगइन</caption>
+      <caption xml:lang="nb">Tilgjengelige tillegg for GNOME oppgaver</caption>
+      <caption xml:lang="lv">Pieejamie spraudņi “GNOME darāmajiem darbiem”</caption>
+      <caption xml:lang="lt">Galimi GNOME Darbų įskiepiai</caption>
+      <caption xml:lang="ko">그놈 일정 관리용 플러그인</caption>
+      <caption xml:lang="kk">GNOME To Do үшін қолжетерлік плагиндер</caption>
+      <caption xml:lang="it">Plugin disponibili per GNOME To Do</caption>
+      <caption xml:lang="is">Tiltækar viðbætur fyrir GNOME-verkefnastýringuna</caption>
+      <caption xml:lang="id">Pengaya yang tersedia untuk GNOME To Do</caption>
+      <caption xml:lang="hu">Elérhető bővítmények a GNOME Tennivalókhoz</caption>
+      <caption xml:lang="hr">Dostupni priključci za GNOME upravitelja zadataka</caption>
+      <caption xml:lang="gl">Engadidos dispoñíbeis para Tarefas de GNOME</caption>
+      <caption xml:lang="fur">Plugin disponibii par GNOME Di fâ</caption>
+      <caption xml:lang="fr">Greffons disponibles pour GNOME To Do</caption>
+      <caption xml:lang="fi">Gnomen tehtäviin saatavilla olevia lisäosia</caption>
+      <caption xml:lang="fa">افزونه‌های موجود برای فعالیت‌های گنوم</caption>
+      <caption xml:lang="eu">Plugin erabilgarriak 'GNOMEren Egitekoak'-entzako</caption>
+      <caption xml:lang="et">Saadaolevad pluginad rakendusele GNOME Ülesanded</caption>
+      <caption xml:lang="es">Complementos disponibles para Tareas pendientes de GNOME</caption>
+      <caption xml:lang="en_GB">Available plugins for GNOME To Do</caption>
+      <caption xml:lang="el">Διαθέσιμα πρόσθετα τις Εργασίες GNOME</caption>
+      <caption xml:lang="de">Für GNOME Aufgaben verfügbare Erweiterungen</caption>
+      <caption xml:lang="da">Tilgængelige udvidelsesmoduler for GNOME To Do</caption>
+      <caption xml:lang="cs">Dostupné zásuvné moduly pro Úkoly GNOME</caption>
+      <caption xml:lang="ca@valencia">Connectors disponibles pel GNOME Per fer</caption>
+      <caption xml:lang="ca">Connectors disponibles pel GNOME Per fer</caption>
+      <caption xml:lang="be">Даступныя плугіны для GNOME To Do</caption>
+      <caption xml:lang="ar">الإضافات المتاحة لمهام جنوم</caption>
+      <caption xml:lang="af">Beskikbare uitbreidings vir GNOME Beplanner</caption>
+    </screenshot>
+    <screenshot width="1200" height="675">
+      <image>https://git.gnome.org/browse/gnome-todo/plain/data/appdata/today-panel.png</image>
+      <caption>Visualizing tasks for today on GNOME To Do’s Today panel</caption>
+      <caption xml:lang="zh_TW">在 GNOME 待辦事項今天窗格上使用視覺化今日事項</caption>
+      <caption xml:lang="uk">Візуалізація завдань на сьогодні для сьогоднішньої панелі</caption>
+      <caption xml:lang="vi">Hiển thị các nhiệm vụ cho hôm nay trên bảng điều khiển Hôm nay của Việc cần làm GNOME</caption>
+      <caption xml:lang="tr">GNOME To Doʼnun Bugün panelinde bugünün görevlerini görselleştirme</caption>
+      <caption xml:lang="sv">Visualiserar dagens uppgifter i GNOME Uppgifters Idag-panel</caption>
+      <caption xml:lang="sr@latin">Prikazivanje zadataka za danas na današnjem panelu Gnomovog Rokovnika</caption>
+      <caption xml:lang="sr">Приказивање задатака за данас на данашњем панелу Гномовог Роковника</caption>
+      <caption xml:lang="sl">Predočenje nalog za današnji dan na oknu dneva</caption>
+      <caption xml:lang="sk">Vizualizácia úloh na dnešný deň v dnešnom paneli aplikácie Úlohy prostredia GNOME</caption>
+      <caption xml:lang="ru">Визуализация сегодняшних задач в панели GNOME To Do для сегодняшних дел</caption>
+      <caption xml:lang="ro">Vizualizarea sarcinilor de astăzi pe panoul GNOME To Do</caption>
+      <caption xml:lang="pt_BR">Visualizando as tarefas de hoje no painel de mesmo nome no GNOME Tarefas</caption>
+      <caption xml:lang="pl">Panel zadań na dzisiaj</caption>
+      <caption xml:lang="oc">Visualizacion dels prètzfaits per uèi dins lo panèl Uèi de GNOME To Do</caption>
+      <caption xml:lang="nl">Taken voor vandaag zichtbaar maken in het paneel Vandaag van Gnome Taken</caption>
+      <caption xml:lang="nb">Visualiserer oppgaver for dagen på GNOME oppgavers I dag panel</caption>
+      <caption xml:lang="lv">Vizualizē šodienas uzdevumus “GNOME darāmo darbu” panelī “Šodien”</caption>
+      <caption xml:lang="lt">Pateikiamos šiandienos užduotys GNOME Darbų šiandienos skydelyje</caption>
+      <caption xml:lang="ko">그놈 일정의 오늘 패널에 오늘의 일정을 멋스럽게 보여드립니다</caption>
+      <caption xml:lang="kk">GNOME To Do-ның бүгінгі күн панелімен бүгінгі тапсырмаларды көрсету</caption>
+      <caption xml:lang="it">Visualizza le attività di oggi sul panello Oggi di GNOME To Do</caption>
+      <caption xml:lang="id">Memvisualisasikan tugas untuk hari ini pada panel GNOME To Do</caption>
+      <caption xml:lang="hu">A mai feladatok látványos megjelenítése a GNOME Tennivalók Ma paneljén</caption>
+      <caption xml:lang="hr">Vizualiziraj današnje zadatke na današnjem panelu GNOME upravitelja zadataka</caption>
+      <caption xml:lang="gl">Visualizar as tarefas de hoxe no panel Hoxe de Lista de tarefas de GNOME</caption>
+      <caption xml:lang="fur">Daûr a visualizâ lis ativitâts par vuê sul panel GNOME Di fâ</caption>
+      <caption xml:lang="fr">Visualisation des tâches pour aujourd'hui dans le panneau Aujourd'hui de GNOME To Do</caption>
+      <caption xml:lang="fi">Kuluvan päivän tehtävien visualisointia Tänään-näkymässä</caption>
+      <caption xml:lang="fa">نمایش فعالیت‌های امروز بر روی تابلوی امروزِ «فعالیت‌های گنوم»</caption>
+      <caption xml:lang="eu">Gaurko zereginak bistaratzen 'GNOMEren Egitekoak'-eko Gaur panelean</caption>
+      <caption xml:lang="et">Käesoleva päeva ülesannete vaade rakenduses GNOME Ülesanded</caption>
+      <caption xml:lang="es">Viendo las tareas para hoy en el panel de tareas pendientes de GNOME</caption>
+      <caption xml:lang="en_GB">Visualising tasks for today on GNOME To Do’s Today panel</caption>
+      <caption xml:lang="de">Visualisierung der heutigen Aufgaben in der Ansicht von GNOME Aufgaben</caption>
+      <caption xml:lang="da">Visualiserer dagens opgaver i GNOME To Dos “I dag”-panel</caption>
+      <caption xml:lang="cs">Zobrazení úkolů pro dnešní den v panelu Dnes v Úkolech GNOME</caption>
+      <caption xml:lang="ca@valencia">Visualització de tasques per hui al quadre d'hui del GNOME Per fer</caption>
+      <caption xml:lang="ca">Visualització de tasques per avui al quadre d'avui del GNOME Per fer</caption>
+      <caption xml:lang="be">Візуалізаваныя сённяшнія заданні на панэлі сённяшняга дня GNOME To Do</caption>
+      <caption xml:lang="ar">عرض مهام هذا اليوم على لوحة اليوم في مهام جنوم</caption>
+      <caption xml:lang="af">Sien die take vir die dag met GNOME Beplanner se daaglikse oorsig paneel</caption>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <releases>
+    <release date="2018-04-10" version="3.28.1">
+      <description>
+        <p>
+          GNOME To Do 3.28.1 brings new and updated translations, and minor bugfixes to the
+          Scheduled panel.
+        </p>
+      </description>
+    </release>
+    <release date="2018-03-12" version="3.28.0">
+      <description>
+        <p>
+          We're proud to annouce GNOME To Do 3.28.0!
+        </p>
+        <p>
+          GNOME To Do 3.28 is a major improvement over the previous versions, and introduces
+          exciting new features and important fixes. The highlights of this release are:
+          <ul><li>The Todoist integration was much polished and improved, and should work more reliably now.</li><li>A big performance issue on startup was fixed. GNOME To Do should start much faster for users with many tasks.</li><li>Google Tasks integration was fixed, and completed tasks now are correctly detected.</li><li>Integration with Evolution received lots of improvements and fixes, and is reaching a mature state.</li><li>Nightly Flatpaks have debugging and tracing enabled, allowing early testers to accurately report issues in To Do.</li><li>A major rework of the task lists interface landed, bringing a much improved experience when managing your tasks!</li></ul>
+        </p>
+        <p>
+          One major drawback of this release is that the Todo.txt integration plugin lost the ability to handle subtasks. If you
+          rely on that feature, please refrain from using this version of GNOME To Do.
+        </p>
+        <p>
+          It is important to notice that Todoist and Todo.txt integrations are still considered experimental, and should not be
+          used in production environments.
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+      </description>
+    </release>
+    <release date="2018-02-11" version="3.27.90">
+      <description>
+        <p>
+          We're proud to annouce GNOME To Do 3.27.90, the alpha release of the
+          next stable release that is going to be released this semester.
+        </p>
+        <p>
+          The highlights of this release are:
+          <ul><li>The Todoist integration was much polished and improved, and should work more reliably now.</li><li>A big performance issue on startup was fixed. GNOME To Do should start much faster for users with many tasks.</li><li>Nightly Flatpaks have debugging and tracing enabled, allowing early testers to accurately report issues in To Do.</li><li>Google Tasks integration was fixed, and completed tasks now are correctly detected.</li><li>Many small polishes in the user interface.</li></ul>
+        </p>
+        <p>
+          One major drawback of this release is that the Todo.txt integration plugin
+          lost the ability to handle subtasks. If you rely on that feature, please
+          refrain from using this version of GNOME To Do.
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+      </description>
+    </release>
+    <release date="2017-11-16" version="3.27.2">
+      <description>
+        <p>
+          We're proud to annouce GNOME To Do 3.27.2, the first development snapshot
+          of the 3.28 release.
+        </p>
+        <p>
+          This release features a big (but still ongoing) redesign of the task rows.
+          They are now much simpler and easier to work with, while having more features!
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to everyone that contributed to GNOME To Do this cycle!</p>
+      </description>
+    </release>
+    <release date="2017-09-11" version="3.26.0">
+      <description>
+        <p>
+          We're proud to annouce GNOME To Do 3.26, the first release in the 3.26 stable
+          series! This release, thanks to the hard work of a Google Summer of Code student,
+          we have synchronization with Todoist in place.
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to everyone that contributed to GNOME To Do this cycle!</p>
+      </description>
+    </release>
+    <release date="2017-08-10" version="3.25.90">
+      <description>
+        <p>
+          This is the second unstable release for GNOME 3.26 series. The new changes
+          are:
+        </p>
+        <ul>
+          <li>Implementation of the Todoist plugin by Rohit Kaushik. </li>
+          <li>Complete move to the Meson build system, dramatically reducing the build times by 80% or more. </li>
+        </ul>
+        <p>This release also updates translations, and adds new translations.</p>
+      </description>
+    </release>
+    <release date="2017-06-19" version="3.25.3">
+      <description>
+        <p>
+          This is the first unstable release for GNOME 3.26 series, and adds many new features
+          and improvements. The major addition was the new Todoist plugin skeleton by Rohit
+          Kaushik, and many other smaller improvements and bugfixes.
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME To Do!</p>
+      </description>
+    </release>
+    <release date="2017-04-24" version="3.24.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.24, and adds many new features
+          and improvements.
+          <ul><li>GNOME To Do can run when you startup and notify you about your tasks</li><li>Memory consumption was optimized</li><li>An experimental Todo.txt plugin was added, but disabled by default</li><li>An initial version of the API documentation was released</li><li>You can select the tasklist where the task will be created in Today and Scheduled panels</li></ul>
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME To Do!</p>
+      </description>
+    </release>
+    <release date="2016-11-01" version="3.22.0">
+      <description>
+        <p>
+          This is the first stable release for GNOME 3.22, and adds many new features
+          and improvements.
+          <ul><li>GNOME To Do now supports subtasks</li><li>Memory consumption was optimized</li><li>The task editor panel received handy buttons to change the task’s due date</li><li>An initial version of the API documentation was released</li><li>All panels except the “List” panel are now plugins and, as such, they can be disabled</li><li>The user can switch between dark and light theme variants now</li></ul>
+        </p>
+        <p>This release also updates translations, and adds new translations.</p>
+        <p>Thanks to all the contributors that worked on GNOME To Do!</p>
+      </description>
+    </release>
+  </releases>
+  <update_contact>georges.stavracas@gmail.com</update_contact>
+  <translation type="gettext">gnome-todo</translation>
+</component>

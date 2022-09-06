@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>org.fedoraproject.systemconfigprinter</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>Print Settings</name>
+  <name xml:lang="zh_TW">列印設定值</name>
+  <name xml:lang="zh_CN">打印设置</name>
+  <name xml:lang="uk">Параметри друку</name>
+  <name xml:lang="tr">Yazıcı Ayarları</name>
+  <name xml:lang="te">ముద్రణ అమరికలు</name>
+  <name xml:lang="ta">அச்சு அமைவுகள்</name>
+  <name xml:lang="sv">Skrivarinställningar</name>
+  <name xml:lang="sr">Подешавања штампе</name>
+  <name xml:lang="sl">Nastavitve tiskanja</name>
+  <name xml:lang="sk">Nastavenia tlače</name>
+  <name xml:lang="ru">Параметры печати</name>
+  <name xml:lang="pt_BR">Configurações da impressão</name>
+  <name xml:lang="pt">Definições da Impressora</name>
+  <name xml:lang="pl">Ustawienia drukowania</name>
+  <name xml:lang="pa">ਪਰਿੰਟ ਸੈਟਿੰਗ</name>
+  <name xml:lang="or">ମୂଦ୍ରଣୀ ସଂରଚନା</name>
+  <name xml:lang="oc">Paramètres d'impression</name>
+  <name xml:lang="nn">Utskriftoppsett</name>
+  <name xml:lang="nl">Afdrukinstellingen</name>
+  <name xml:lang="nb">Innstillinger for utskrift</name>
+  <name xml:lang="mr">छपाई सेटिंग्स्</name>
+  <name xml:lang="ml">പ്രിന്റ് സജ്ജീകരണങ്ങള്‍</name>
+  <name xml:lang="lv">Drukāšanas iestatījumi</name>
+  <name xml:lang="lt">Spausdinimo nustatymai</name>
+  <name xml:lang="ko">인쇄 설정</name>
+  <name xml:lang="kn">ಮುದ್ರಣದ ಸಿದ್ಧತೆಗಳು</name>
+  <name xml:lang="ja">印刷設定</name>
+  <name xml:lang="it">Impostazioni di stampa</name>
+  <name xml:lang="id">Pengaturan Cetak</name>
+  <name xml:lang="hu">Nyomtatási beállítások</name>
+  <name xml:lang="hi">छपाई सेटिंग</name>
+  <name xml:lang="he">הגדרות הדפסה</name>
+  <name xml:lang="gu">પ્રિન્ટ સુયોજનો</name>
+  <name xml:lang="fur">Impostazions di stampe</name>
+  <name xml:lang="fr">Configuration de l’impression</name>
+  <name xml:lang="fi">Tulostusasetukset</name>
+  <name xml:lang="et">Trükkimise seaded</name>
+  <name xml:lang="es">Configuración de impresión</name>
+  <name xml:lang="en_GB">Print Settings</name>
+  <name xml:lang="el">Ρυθμίσεις εκτύπωσης</name>
+  <name xml:lang="de">Druckeinstellungen</name>
+  <name xml:lang="da">Udskriftsindstillinger</name>
+  <name xml:lang="cs">Nastavení tisku</name>
+  <name xml:lang="ca">Ajusts d'impressió</name>
+  <name xml:lang="bn_IN">প্রিন্ট সংক্রান্ত বৈশিষ্ট্য</name>
+  <name xml:lang="bn">মুদ্রণ সেটিংস</name>
+  <name xml:lang="bg">Принтерни настройки</name>
+  <name xml:lang="as">প্ৰিন্ট সংহতিসমূহ</name>
+  <name xml:lang="ar">إعدادات الطباعة</name>
+  <summary>Configure printer queues</summary>
+  <description>
+    <p>With system-config-printer you can add, edit and delete
+    printer queues. It allows you to choose the connection method and
+    the printer driver.</p>
+    <p>For each queue, you can adjust the default page size and other
+    driver options, as well as seeing ink/toner levels and status
+    messages.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main window</caption>
+      <image type="source" width="624" height="351">https://raw.githubusercontent.com/OpenPrinting/system-config-printer/master/data/screenshot-mainwindow.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Printer properties</caption>
+      <image type="source" width="752" height="423">https://raw.githubusercontent.com/OpenPrinting/system-config-printer/master/data/screenshot-properties.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/OpenPrinting/system-config-printer/</url>
+  <url type="bugtracker">https://github.com/OpenPrinting/system-config-printer/issues</url>
+  <provides>
+    <binary>system-config-printer</binary>
+    <dbus type="system">org.fedoraproject.Config.Printing</dbus>
+    <id>system-config-printer.desktop</id>
+  </provides>
+  <update_contact>zdohnal@redhat.com</update_contact>
+</component>

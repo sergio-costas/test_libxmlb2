@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>avrdude</id>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>avrdude</name>
+  <summary>software for programming Atmel AVR microcontrollers</summary>
+  <description>
+    <p>
+    AVRDUDE is an open source utility to download/upload/manipulate the
+    ROM and EEPROM contents of AVR microcontrollers using the in-system
+    programming technique (ISP).
+    </p>
+  </description>
+  <provides>
+    <modalias>usb:v03EBp2103d*</modalias>
+    <modalias>usb:v03EBp2104d*</modalias>
+    <modalias>usb:v03EBp2106d*</modalias>
+    <modalias>usb:v03EBp2107d*</modalias>
+    <modalias>usb:v03EBp2110d*</modalias>
+    <modalias>usb:v03EBp2111d*</modalias>
+    <modalias>usb:v03EBp2140d*</modalias>
+    <modalias>usb:v03EBp2141d*</modalias>
+    <modalias>usb:v03EBp2144d*</modalias>
+    <modalias>usb:v03EBp2145d*</modalias>
+    <modalias>usb:v03EBp2FD6d*</modalias>
+    <modalias>usb:v03EBp2FDBd*</modalias>
+    <modalias>usb:v03EBp2FDEd*</modalias>
+    <modalias>usb:v03EBp2FDFd*</modalias>
+    <modalias>usb:v03EBp2FE0d*</modalias>
+    <modalias>usb:v03EBp2FE1d*</modalias>
+    <modalias>usb:v03EBp2FE2d*</modalias>
+    <modalias>usb:v03EBp2FE3d*</modalias>
+    <modalias>usb:v03EBp2FD7d*</modalias>
+    <modalias>usb:v03EBp2FDAd*</modalias>
+    <modalias>usb:v03EBp2FE4d*</modalias>
+    <modalias>usb:v03EBp2FE5d*</modalias>
+    <modalias>usb:v03EBp2FE6d*</modalias>
+    <modalias>usb:v03EBp2FE7d*</modalias>
+    <modalias>usb:v03EBp2FE8d*</modalias>
+    <modalias>usb:v03EBp2FEAd*</modalias>
+    <modalias>usb:v03EBp2FECd*</modalias>
+    <modalias>usb:v03EBp2FEDd*</modalias>
+    <modalias>usb:v03EBp2FEEd*</modalias>
+    <modalias>usb:v03EBp2FEFd*</modalias>
+    <modalias>usb:v03EBp2FF0d*</modalias>
+    <modalias>usb:v03EBp2FF1d*</modalias>
+    <modalias>usb:v03EBp2FF3d*</modalias>
+    <modalias>usb:v03EBp2FF4d*</modalias>
+    <modalias>usb:v03EBp2FF6d*</modalias>
+    <modalias>usb:v03EBp2FF7d*</modalias>
+    <modalias>usb:v03EBp2FF8d*</modalias>
+    <modalias>usb:v03EBp2FF9d*</modalias>
+    <modalias>usb:v03EBp2FFAd*</modalias>
+    <modalias>usb:v03EBp2FFBd*</modalias>
+    <modalias>usb:v03EBp2FFDd*</modalias>
+    <modalias>usb:v03EBp2FFFd*</modalias>
+    <modalias>usb:v04D8p0033d*</modalias>
+    <modalias>usb:v16C0p05DCd*</modalias>
+    <modalias>usb:v16C0p092Fd*</modalias>
+    <modalias>usb:v16D0p0BA5d*</modalias>
+    <modalias>usb:v1781p0C9Fd*</modalias>
+  </provides>
+</component>

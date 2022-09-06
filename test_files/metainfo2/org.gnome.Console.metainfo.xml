@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019-2021 Zander Brown -->
+<component type="desktop-application">
+  <id>org.gnome.Console</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <project_group>GNOME</project_group>
+  <name>Console</name>
+  <name xml:lang="zh_CN">控制台</name>
+  <name xml:lang="vi">Bàn giao tiếp</name>
+  <name xml:lang="uk">Консоль</name>
+  <name xml:lang="tr">Konsol</name>
+  <name xml:lang="sv">Konsol</name>
+  <name xml:lang="sr">Конзола</name>
+  <name xml:lang="sl">Konzola</name>
+  <name xml:lang="sk">Konzola</name>
+  <name xml:lang="ru">Консоль</name>
+  <name xml:lang="pt_BR">Console</name>
+  <name xml:lang="pt">Consola</name>
+  <name xml:lang="pl">Konsola</name>
+  <name xml:lang="pa">ਕਨਸੋਲ</name>
+  <name xml:lang="oc">Consòla</name>
+  <name xml:lang="nl">Console</name>
+  <name xml:lang="ne">कन्सोल</name>
+  <name xml:lang="nb">Konsoll</name>
+  <name xml:lang="lt">Konsolė</name>
+  <name xml:lang="ko">콘솔</name>
+  <name xml:lang="kk">Консоль</name>
+  <name xml:lang="ka">კონსოლი</name>
+  <name xml:lang="ja">コンソール</name>
+  <name xml:lang="it">Console</name>
+  <name xml:lang="id">Konsol</name>
+  <name xml:lang="hu">Konzol</name>
+  <name xml:lang="hr">Konzola</name>
+  <name xml:lang="he">מסוף</name>
+  <name xml:lang="gl">Consola</name>
+  <name xml:lang="fur">Console</name>
+  <name xml:lang="fr">Console</name>
+  <name xml:lang="fi">Konsoli</name>
+  <name xml:lang="fa">کنسول</name>
+  <name xml:lang="eu">Kontsola</name>
+  <name xml:lang="es">Consola</name>
+  <name xml:lang="de">Konsole</name>
+  <name xml:lang="da">Konsol</name>
+  <name xml:lang="cs">Konzola</name>
+  <name xml:lang="ca">Consola</name>
+  <name xml:lang="bg">Конзола</name>
+  <summary>Terminal Emulator</summary>
+  <summary xml:lang="zh_CN">终端模拟器</summary>
+  <summary xml:lang="vi">Trình mô phỏng thiết bị cuối</summary>
+  <summary xml:lang="uk">Емулятор термінала</summary>
+  <summary xml:lang="tr">Uçbirim Öykünücü</summary>
+  <summary xml:lang="sv">Terminalemulator</summary>
+  <summary xml:lang="sr">Опонашавач терминала</summary>
+  <summary xml:lang="sl">Posnemovalnik terminala</summary>
+  <summary xml:lang="sk">Emulátor terminálu</summary>
+  <summary xml:lang="ru">Эмулятор Терминала</summary>
+  <summary xml:lang="ro">Emulator de terminal</summary>
+  <summary xml:lang="pt_BR">Emulador de terminal</summary>
+  <summary xml:lang="pt">Emulador de terminal</summary>
+  <summary xml:lang="pl">Emulator terminala</summary>
+  <summary xml:lang="pa">ਟਰਮੀਨਲ ਈਮੂਲੇਟਰ</summary>
+  <summary xml:lang="oc">Emulator de Terminal</summary>
+  <summary xml:lang="nl">Terminal-emulator</summary>
+  <summary xml:lang="ne">टर्मिनल इमुलेटर</summary>
+  <summary xml:lang="nb">Terminalemulator</summary>
+  <summary xml:lang="lt">Terminalo emuliatorius</summary>
+  <summary xml:lang="ko">터미널 에뮬레이터</summary>
+  <summary xml:lang="kk">Терминал эмуляторы</summary>
+  <summary xml:lang="ka">ტერმინალის ემულატორი</summary>
+  <summary xml:lang="ja">端末エミュレーター</summary>
+  <summary xml:lang="it">Emulatore di terminale</summary>
+  <summary xml:lang="id">Emulator Terminal</summary>
+  <summary xml:lang="hu">Terminálemulátor</summary>
+  <summary xml:lang="hr">Emulator terminala</summary>
+  <summary xml:lang="he">מדמה מסוף</summary>
+  <summary xml:lang="gl">Emulador de terminal</summary>
+  <summary xml:lang="fur">Emuladôr di terminâl</summary>
+  <summary xml:lang="fr">Émulateur de terminal</summary>
+  <summary xml:lang="fi">Pääte-emulaattori</summary>
+  <summary xml:lang="fa">شبیه‌ساز پایانه</summary>
+  <summary xml:lang="eu">Terminalaren emulatzailea</summary>
+  <summary xml:lang="es">Emulador de terminal</summary>
+  <summary xml:lang="en_GB">Terminal Emulator</summary>
+  <summary xml:lang="el">Προσομοίωση τερματικού</summary>
+  <summary xml:lang="de">Terminal-Emulator</summary>
+  <summary xml:lang="da">Terminalemulator</summary>
+  <summary xml:lang="cs">Emulátor terminálu</summary>
+  <summary xml:lang="ca">Emulador de terminal</summary>
+  <summary xml:lang="bg">Терминален емулатор</summary>
+  <description>
+    <p>
+      A simple user-friendly terminal emulator for the GNOME desktop.
+    </p>
+    <p xml:lang="zh_CN">GNOME 桌面的简单、用户友好的终端模拟器。</p>
+    <p xml:lang="vi">Một bộ mô phỏng thiết bị cuối đơn giản và thân thiện người dùng dành cho môi trường máy tính để bàn GNOME.</p>
+    <p xml:lang="uk">Простий зручний для користувачів термінал для стільниці GNOME.</p>
+    <p xml:lang="tr">GNOME masaüstü için basit, kullanıcı dostu uçbirim öykünücü.</p>
+    <p xml:lang="sv">En enkel användarvänlig terminalemulator för GNOME-skrivbordet.</p>
+    <p xml:lang="sr">Једноставан опонашавач терминала за Гномову радну површ.</p>
+    <p xml:lang="sl">Preprost uporabniku prijazen posnemovalnik terminala za namizje GNOME.</p>
+    <p xml:lang="sk">Jednoduchý a priateľský emulátor terminálu pre pracovné prostredie GNOME.</p>
+    <p xml:lang="ru">Простой и удобный эмулятор терминала для рабочего стола GNOME.</p>
+    <p xml:lang="ro">Un emulator de terminal simplu ușor de utilizat pentru desktopul GNOME.</p>
+    <p xml:lang="pt_BR">Um simples emulador de terminal fácil de usar para o ambiente GNOME.</p>
+    <p xml:lang="pt">Um emulador de terminal simples e fácil de usar para o ambiente de trabalho GNOME.</p>
+    <p xml:lang="pl">Prosty, łatwy w użyciu emulator terminala dla środowiska GNOME.</p>
+    <p xml:lang="pa">ਗਨੋਮ ਡੈਸਕਟਾਪ ਲਈ ਸਰਲ ਵਰਤੋਂਕਾਰ ਲਈ ਸੌਖਾ ਟਰਮੀਨਲ ਈਮੂਲੇਟਰ ਹੈ।</p>
+    <p xml:lang="oc">Un emulator de terminal simple e de bon utilizaire pel burèu GNOME.</p>
+    <p xml:lang="nl">Een eenvoudige en gebruiksvriendelijke terminal-emulator voor het Gnome-bureaublad.</p>
+    <p xml:lang="ne">जिनोम डेस्कटपका लागि एउटा साधारण प्रयोगकर्ता-अनुकूल टर्मिनल इमुलेटर ।</p>
+    <p xml:lang="nb">En enkel og brukervennlig terminalemulator for GNOME skrivebordet.</p>
+    <p xml:lang="lt">Paprastas terminalo emulatorius GNOME darbalaukio naudotojams.</p>
+    <p xml:lang="ko">그놈 데스크톱용 간단한 사용자 친화적인 터미널 에뮬레이터.</p>
+    <p xml:lang="kk">GNOME жұмыс үстеліне арналған пайдаланушыға ыңғайлы қарапайым терминал эмуляторы.</p>
+    <p xml:lang="ja">GNOME デスクトップ向けのシンプルでユーザーフレンドリーな端末エミュレーターです。</p>
+    <p xml:lang="it">Un semplice e amichevole emulatore di terminale per il desktop GNOME.</p>
+    <p xml:lang="id">Emulator terminal sederhana yang mudah digunakan untuk destop GNOME.</p>
+    <p xml:lang="hu">Egy egyszerű, felhasználóbarát terminálemulátor a GNOME asztalhoz.</p>
+    <p xml:lang="hr">Jednostavan korisniku prilagođen emulator terminala za GNOME radno okruženje.</p>
+    <p xml:lang="he">מדמה מסוף פשוט וידידותי למשתמש עבוד שולחן העבודה GNOME.</p>
+    <p xml:lang="gl">Un emulador de terminal simple e amigábel para o escritorio GNOME.</p>
+    <p xml:lang="fur">Un sempliç e facil emuladôr di terminâl pal scritori GNOME.</p>
+    <p xml:lang="fr">Un émulateur de terminal simpliste pour le bureau GNOME</p>
+    <p xml:lang="fi">Helppokäyttöinen pääte-emulaattori Gnome-työpöydälle.</p>
+    <p xml:lang="fa">شبیه‌ساز پایانه‌ای کاربرپسند برای میزکار گنوم.</p>
+    <p xml:lang="eu">Terminalaren emuladore sinple eta erraza GNOME mahaigainerako.</p>
+    <p xml:lang="es">Un emulador de terminal sencillo y amigable para el escritorio GNOME.</p>
+    <p xml:lang="en_GB">A simple user-friendly terminal emulator for the GNOME desktop.</p>
+    <p xml:lang="el">Ένας απλός φιλικός προς τον χρήστη εξομοιωτής τερματικού για το GNOME.</p>
+    <p xml:lang="de">Ein einfacher, nutzerfreundlicher Terminal-Emulator für die GNOME Arbeitsumgebung.</p>
+    <p xml:lang="da">En simpel brugervenlig terminalemulator til GNOME-skrivebordet.</p>
+    <p xml:lang="cs">Jednoduchý, uživatelsky přívětivý emulátor terminálu pro uživatelské prostředí GNOME.</p>
+    <p xml:lang="ca">Un emulador de terminal fàcil d'utilitzar per a l'escriptori del GNOME.</p>
+    <p xml:lang="bg">Лесен за ползване емулатор на терминал за GNOME.</p>
+  </description>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+  </kudos>
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </recommends>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <screenshots>
+    <screenshot type="default">
+      <image height="561" width="732">https://gitlab.gnome.org/GNOME/console/raw/gnome-43/data/screenshots/01-Terminal.png</image>
+      <caption>Terminal window</caption>
+      <caption xml:lang="zh_CN">终端窗口</caption>
+      <caption xml:lang="vi">Cửa sổ thiết bị cuối</caption>
+      <caption xml:lang="uk">Вікно термінала</caption>
+      <caption xml:lang="tr">Uçbirim penceresi</caption>
+      <caption xml:lang="sv">Terminalfönster</caption>
+      <caption xml:lang="sr">Прозор терминала</caption>
+      <caption xml:lang="sl">Okno terminala</caption>
+      <caption xml:lang="sk">Okno terminálu</caption>
+      <caption xml:lang="ru">Окно терминала</caption>
+      <caption xml:lang="ro">Fereastră de terminal</caption>
+      <caption xml:lang="pt_BR">Janela do terminal</caption>
+      <caption xml:lang="pt">Janela do terminal</caption>
+      <caption xml:lang="pl">Okno terminala</caption>
+      <caption xml:lang="pa">ਟਰਮੀਨਲ ਵਿੰਡੋ</caption>
+      <caption xml:lang="oc">Fenèstra de terminal</caption>
+      <caption xml:lang="nl">Terminalvenster</caption>
+      <caption xml:lang="ne">टर्मिनल सञ्झ्याल</caption>
+      <caption xml:lang="nb">Terminalvindu</caption>
+      <caption xml:lang="lt">Terminalo langas</caption>
+      <caption xml:lang="ko">터미널 창</caption>
+      <caption xml:lang="kk">Терминал терезесі</caption>
+      <caption xml:lang="ka">ტერმინალის ფანჯარა</caption>
+      <caption xml:lang="ja">端末ウィンドウ</caption>
+      <caption xml:lang="it">Finestra terminale</caption>
+      <caption xml:lang="id">Jendela terminal</caption>
+      <caption xml:lang="hu">Terminálablak</caption>
+      <caption xml:lang="hr">Prozor terminala</caption>
+      <caption xml:lang="he">חלון המסוף</caption>
+      <caption xml:lang="gl">Xanela de terminal</caption>
+      <caption xml:lang="fur">Barcon dal terminâl</caption>
+      <caption xml:lang="fr">Fenêtre de terminal</caption>
+      <caption xml:lang="fi">Pääteikkuna</caption>
+      <caption xml:lang="fa">پنجرهٔ پایانه</caption>
+      <caption xml:lang="eu">Terminalaren leihoa</caption>
+      <caption xml:lang="es">Ventana de la terminal</caption>
+      <caption xml:lang="en_GB">Terminal window</caption>
+      <caption xml:lang="el">Παράθυρο τερματικού</caption>
+      <caption xml:lang="de">Terminalfenster</caption>
+      <caption xml:lang="da">Terminalvindue</caption>
+      <caption xml:lang="cs">Terminálové okno</caption>
+      <caption xml:lang="ca">Finestra de terminal</caption>
+      <caption xml:lang="bg">Прозорец на терминала</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="43.beta" date="2022-08-07">
+      <description>
+        <p>Ported to Gtk4/Adwaita</p>
+        <p>File drag and drop now pastes paths instead of URIs</p>
+        <p>Files extension has been upstreamed</p>
+        <p>Various other bugfixes and improvements</p>
+        <p>Updated Translations:</p>
+        <ul>
+          <li>Abkhazian</li>
+          <li>Basque</li>
+          <li>Catalan</li>
+          <li>Chinese (China)</li>
+          <li>Dutch</li>
+          <li>French</li>
+          <li>Galician</li>
+          <li>Georgian</li>
+          <li>German</li>
+          <li>Hebrew</li>
+          <li>Indonesian</li>
+          <li>Nepali</li>
+          <li>Persian</li>
+          <li>Portuguese</li>
+          <li>Russian</li>
+          <li>Serbian</li>
+          <li>Spanish</li>
+          <li>Turkish</li>
+          <li>Ukrainian</li>
+          <li>Vietnamese</li>
+        </ul>
+      </description>
+    </release>
+    <release version="42.2" date="2022-07-14">
+      <description>
+        <p>Bug fix release</p>
+      </description>
+    </release>
+    <release version="42.1" date="2022-07-13">
+      <description>
+        <p>Improvements:</p>
+        <ul>
+          <li>Renamed to Console</li>
+          <li>Better high contrast support</li>
+          <li>Increased zoom range</li>
+          <li>Improved text paste</li>
+        </ul>
+        <p>Assorted bug fixes</p>
+        <p>Translation updates</p>
+        <ul>
+          <li>Basque</li>
+          <li>Brazilian Portuguese</li>
+          <li>Bulgarian</li>
+          <li>Catalan</li>
+          <li>Chinese (China)</li>
+          <li>Croatian</li>
+          <li>Czech</li>
+          <li>Danish</li>
+          <li>Dutch</li>
+          <li>Finnish</li>
+          <li>French</li>
+          <li>Friulian</li>
+          <li>Galician</li>
+          <li>German</li>
+          <li>Hebrew</li>
+          <li>Hungarian</li>
+          <li>Indonesian</li>
+          <li>Italian</li>
+          <li>Japanese</li>
+          <li>Kazakh</li>
+          <li>Korean</li>
+          <li>Lithuanian</li>
+          <li>Nepali</li>
+          <li>Norwegian Bokmål</li>
+          <li>Occitan</li>
+          <li>Persian</li>
+          <li>Polish</li>
+          <li>Portuguese</li>
+          <li>Punjabi</li>
+          <li>Russian</li>
+          <li>Serbian</li>
+          <li>Slovak</li>
+          <li>Slovenian</li>
+          <li>Spanish</li>
+          <li>Swedish</li>
+          <li>Vietnamese</li>
+          <li>Turkish</li>
+          <li>Ukrainian</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.4.0" date="2021-10-24">
+      <description>
+        <p>More Terminals! KGX can now host multiple sessions per window with nifty tabs on larger screens and a neat list for those on the narrower side</p>
+        <p>Also in this release:</p>
+        <ul>
+          <li>🎨 Shiny new — yet familiar — icon</li>
+          <li>📜 More scrollback</li>
+          <li>🔗 Mouse users can ctrl-click links</li>
+          <li>🗄️ Handy little Files (Nautilus) extension to launch KGX in a folder</li>
+          <li>🤦‍♀️ Assorted bugs have been wrangled and scrolling behaviour (especially on touch) has been improved</li>
+          <li>💬 GNOME l10n teams have added many more translations</li>
+          <li>🪛 Adventurous users can set a custom shell (such as fish) and tweak the scrollback size</li>
+        </ul>
+      </description>
+    </release>
+    <release version="0.2.1" date="2019-10-06">
+      <description>
+        <p>Use HdySearchBar to match the behaviour in other apps.</p>
+        <p>Improved generic banding (no weird symbols in about dialog).</p>
+        <p>Translation updates from the wonderful d-l team (except en_GB, that translator seems to have dropped the ball....).</p>
+      </description>
+    </release>
+    <release version="0.2.0" date="2019-09-15">
+      <description>
+        <p>Impoved tracking of running commands reducing resource usage, especially when running in the background.</p>
+        <p>Command complete notifications and query close when commands are still running.</p>
+        <p>Translations for de, en_GB, es, fi, hu, pl &amp; pt_BR from various users on l10n.gnome.org (thanks guys!).</p>
+      </description>
+    </release>
+    <release version="0.1.0" date="2019-07-30">
+      <description>
+        <p>The first release of our little terminal emulator with basic functionality.</p>
+      </description>
+    </release>
+  </releases>
+  <launchable type="desktop-id">org.gnome.Console.desktop</launchable>
+  <url type="homepage">https://gitlab.gnome.org/GNOME/console/</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/console/issues</url>
+  <update_contact>zbrown@gnome.org</update_contact>
+  <translation type="gettext">kgx</translation>
+  <content_rating type="oars-1.1"/>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name xml:lang="uk">Проєкт GNOME</developer_name>
+  <developer_name xml:lang="sr">Гном пројекат</developer_name>
+  <developer_name xml:lang="ru">The GNOME Project</developer_name>
+  <developer_name xml:lang="pt">O Projeto GNOME</developer_name>
+  <developer_name xml:lang="id">Proyek GNOME</developer_name>
+  <developer_name xml:lang="fa">پروژهٔ گنوم</developer_name>
+  <developer_name xml:lang="eu">GNOME proiektua</developer_name>
+  <custom>
+    <value key="Purism::form_factor">workstation</value>
+    <value key="Purism::form_factor">mobile</value>
+  </custom>
+</component>

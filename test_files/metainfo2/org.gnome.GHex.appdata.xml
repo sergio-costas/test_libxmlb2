@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>org.gnome.GHex</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>GNOME Hex Editor</name>
+  <name xml:lang="uk">Шістнадцятковий редактор для GNOME</name>
+  <name xml:lang="tr">GNOME Onaltılık Düzenleyici</name>
+  <name xml:lang="sv">GNOME Hexadecimalredigerare</name>
+  <name xml:lang="sr">Гномов хексадецимални уређивач</name>
+  <name xml:lang="sl">Urejevalnik šestnajstiških datotek</name>
+  <name xml:lang="ro">Editor Hex GNOME</name>
+  <name xml:lang="pt_BR">Editor hexadecimal do GNOME</name>
+  <name xml:lang="pl">Edytor szesnastkowy GNOME</name>
+  <name xml:lang="lt">GNOME šešioliktainis redaktorius</name>
+  <name xml:lang="ko">그놈 16진 편집기</name>
+  <name xml:lang="ja">GNOME Hex エディター</name>
+  <name xml:lang="id">Penyunting Heksa GNOME</name>
+  <name xml:lang="hu">GNOME hexadecimális szerkesztő</name>
+  <name xml:lang="fr">Éditeur hexadécimal GNOME</name>
+  <name xml:lang="fi">Heksamuokkain</name>
+  <name xml:lang="es">Editor hexadecimal de GNOME</name>
+  <name xml:lang="en_GB">GNOME Hex Editor</name>
+  <name xml:lang="de">GNOME Hexadezimal-Editor</name>
+  <name xml:lang="da">GNOME-heksredigering</name>
+  <name xml:lang="cs">Hexadecimální editor GNOME</name>
+  <summary>Inspect and edit binary files</summary>
+  <summary xml:lang="zh_CN">查看和编辑二进制文件</summary>
+  <summary xml:lang="uk">Вивчення та редагування двійкових файлів</summary>
+  <summary xml:lang="tr">İkilik dosyaları inceleyin ve düzenleyin</summary>
+  <summary xml:lang="th">ตรวจสอบและแก้ไขแฟ้มไบนารี</summary>
+  <summary xml:lang="sv">Inspektera och redigera binärfiler</summary>
+  <summary xml:lang="sr@latin">Pregledajte i izmenite izvršne datoteke</summary>
+  <summary xml:lang="sr">Прегледајте и измените извршне датотеке</summary>
+  <summary xml:lang="sl">Pregled in urejanje dvojiških datotek</summary>
+  <summary xml:lang="sk">Kontroluje a upravuje binárne súbory</summary>
+  <summary xml:lang="ru">Просмотр и изменение двоичных файлов</summary>
+  <summary xml:lang="ro">Inspectează și editează fișiere binare</summary>
+  <summary xml:lang="pt_BR">Inspecione e edite arquivos binários</summary>
+  <summary xml:lang="pt">Inspecione e edite ficheiros binários</summary>
+  <summary xml:lang="pl">Badanie i modyfikacja plików binarnych</summary>
+  <summary xml:lang="nb">Inspiser og rediger binærfiler</summary>
+  <summary xml:lang="lt">Peržiūrėti ir redaguoti dvejetainius failus</summary>
+  <summary xml:lang="lv">Pētiet un rediģējiet bināros failus</summary>
+  <summary xml:lang="ko">바이너리 파일을 살펴보고 편집합니다</summary>
+  <summary xml:lang="ja">バイナリファイルを調査したり編集します</summary>
+  <summary xml:lang="id">Periksa dan sunting berkas biner</summary>
+  <summary xml:lang="hu">Bináris fájlok megfigyelése és szerkesztése</summary>
+  <summary xml:lang="he">בחינה ועריכה של קבצים בינאריים</summary>
+  <summary xml:lang="gl">Examina e edita ficheiros binarios</summary>
+  <summary xml:lang="fr">Examiner et modifier des fichiers binaires</summary>
+  <summary xml:lang="fi">Tutki ja muokkaa binääritiedostoja</summary>
+  <summary xml:lang="eu">Aztertu eta editatu fitxategi bitarrak</summary>
+  <summary xml:lang="et">Binaarfailide vaatamine ja redigeerimine</summary>
+  <summary xml:lang="es">Inspeccionar y editar archivos binarios</summary>
+  <summary xml:lang="en_GB">Inspect and edit binary files</summary>
+  <summary xml:lang="el">Ελέγξτε και επεξεργαστείτε εκτελέσιμα αρχεία</summary>
+  <summary xml:lang="de">Inhalte von Dateien untersuchen und bearbeiten</summary>
+  <summary xml:lang="da">Inspicer og rediger binære filer</summary>
+  <summary xml:lang="cs">Zkoumejte a upravujte obsah binárních souborů</summary>
+  <summary xml:lang="bs">Analiza i uređivanje binarnih datoteka</summary>
+  <summary xml:lang="be">Прагляд і рэдагаванне двайковых файлаў</summary>
+  <description>
+    <p>
+      GHex is a hex editor for the GNOME desktop.
+    </p>
+    <p xml:lang="uk">GHex — шістнадцятковий редактор для середовища GNOME.</p>
+    <p xml:lang="tr">GHex, GNOME masaüstü için onaltılık düzenleyicidir.</p>
+    <p xml:lang="sv">GHex är en hexadecimalredigerare för GNOME-skrivbordet.</p>
+    <p xml:lang="sr">Гхекс је уређивач хексадецималног садржаја за Гномову радну површ.</p>
+    <p xml:lang="sl">GHex je šestnajstiški urejevalnik za namizje GNOME.</p>
+    <p xml:lang="ro">GHex este un editor hex pentru desktop-ul GNOME.</p>
+    <p xml:lang="pt_BR">GHex é um editor de hexadecimal para o ambiente GNOME.</p>
+    <p xml:lang="pl">GHex to edytor szesnastkowy dla środowiska GNOME.</p>
+    <p xml:lang="lt">GHex yra šešioliktainis redaktorius GNOME darbalaukiui.</p>
+    <p xml:lang="ko">지헥스는 그놈 데스트톱용 16진수 편집 프로그램입니다.</p>
+    <p xml:lang="ja">GHex は GNOME デスクトップ向けのバイナリエディターです。</p>
+    <p xml:lang="id">GHex adalah penyunting heksa untuk desktop GNOME.</p>
+    <p xml:lang="hu">A GHex egy hexadecimális szerkesztő a GNOME asztali környezethez.</p>
+    <p xml:lang="fr">GHex est un éditeur hexadécimal pour le bureau GNOME.</p>
+    <p xml:lang="fi">GHex on heksamuokkain Gnome-työpöydälle.</p>
+    <p xml:lang="es">GHex es un editor hexadecimal para el escritorio GNOME.</p>
+    <p xml:lang="en_GB">GHex is a hex editor for the GNOME desktop.</p>
+    <p xml:lang="de">GHex ist ein Hexadezimal-Editor für die GNOME-Arbeitsumgebung.</p>
+    <p xml:lang="da">GHex er et program til heksredigering til GNOME-skrivebordet.</p>
+    <p xml:lang="cs">GHex je hexadecimální editor pro uživatelské prostředí GNOME.</p>
+    <p>
+      GHex can load raw data from binary files and display them for editing in the
+      traditional hex editor view. The display is split in two columns, with
+      hexadecimal values in one column and the ASCII representation in the other.
+      A useful tool for working with raw data.
+    </p>
+    <p xml:lang="uk">GHex може завантажувати необроблені дані з двійкових файлів і показувати їх для редагування у традиційному форматі шістнадцяткового редактора. Панель показу програми поділено на два стовпчики — у одному зі стовпчиків показано шістнадцяткові значення, а у другому — представлення цих значень символами ASCII. Корисний інструмент для роботи із необробленими даними.</p>
+    <p xml:lang="tr">GHex ham verileri ikili dosyalardan yükleyebilir ve bunları geleneksel onaltılık düzenleyici görünümünde düzenlemek için görüntüleyebilir. Ekran, bir sütunda onaltılık değer ve diğerinde ASCII gösterimi ile iki sütuna bölünmüştür. Ham verilerle çalışmak için yararlı bir araçtır.</p>
+    <p xml:lang="sv">GHex kan läsa in rådata från binärfiler och visa dem för redigering i den traditionella hexadecimalredigerarvyn. Fönstret delas i två kolumner, med hexadecimala värden i en kolumn och ASCII-representationen i den andra. Ett användbart verktyg för att arbeta med rådata.</p>
+    <p xml:lang="sr">Гхекс може учитати сирове податке из бинарних датотека и може их приказати за уређивање у традиционалном уређивачком прегледу хексадецималног садржаја. Приказ је подељен у две колоне, са хексадецималним вредностима у једној а ASCII садржајем у другој колони. Корисна алатка за рад са сировим подацима.</p>
+    <p xml:lang="sl">Program GHex omogoča nalaganje surovih podatkov dvojiških datotek in možnost urejanja v šestnajstiškem urejevalniku. Pogled je razdeljen na dva stolpca, šestnajtiški zapis v enem in običajni ASCII v drugem. Program je uporabno orodje za urejanje kodiranega zapisa.</p>
+    <p xml:lang="ro">GHez poate încărca datele brute de la fișiere binare și poate să se afișeze pentru editare în vizualizarea editor hex tradițională. Afișajul este împărțit în două coloane, cu valori hexazecimale într-o coloană și reprezentarea ASCII în cealaltă coloană. O unealtă utilă pentru lucrul cu datele brute.</p>
+    <p xml:lang="pt_BR">O GHex pode carregar dados brutos de arquivos binários e exibi-los para edição na visão tradicional do editor hexadecimal. A exibição é dividida em duas colunas, com valores hexadecimais em uma coluna e a representação ASCII na outra. Uma ferramenta útil para trabalhar com dados brutos.</p>
+    <p xml:lang="pl">GHex może wczytywać surowe dane z plików binarnych i wyświetlać je do modyfikacji w tradycyjnym edytorze szesnastkowym. Dane są wyświetlane w dwóch kolumnach: wartości szesnastkowe w jednej, a reprezentacja ASCII w drugiej. To przydatne narzędzie do pracy z surowymi danymi.</p>
+    <p xml:lang="lt">GHex gali tiesiogiai įkelti duomenis iš dvejetainių failų ir juos parodyti redagavimui tradiciniame šešioliktainio redaktoriaus rodinyje. Ekranas yra padalinamas į du stulpelius su šešioliktainėmis vertėmis viename stulpelyje ir ASCII reprezentacija kitame. Naudingas įrankis tiesioginiam duomenų redagavimui.</p>
+    <p xml:lang="ko">지헥스는 기존 16진수 편집기 보기 화면에서 이진 파일의 원시 데이터를 불러오고 편집 용도로 표시할 수 있습니다. 화면을 두 부분으로 나누어 한 부분은 16진수로, 한 부분은 아스키 방식으로 표현합니다. 원시 데이터를 다루기에 참 쓸만한 도구입니다.</p>
+    <p xml:lang="id">GHex dapat memuat data mentah dari berkas biner dan menampilkannya untuk penyuntingan dalam tampilan tradisional editor heksa. Tampilan dibagi dalam dua kolom, dengan nilai-nilai heksadesimal dalam satu kolom dan representasi ASCII di kolom lain. Alat yang berguna untuk bekerja dengan data mentah.</p>
+    <p xml:lang="hu">A GHex képes betölteni a nyers adatokat bináris fájlokból, és megjeleníti azokat szerkesztéshez a klasszikus hexadecimális szerkesztő nézetben. A megjelenítés két oszlopra van bontva: hexadecimális értékekkel az első oszlopban, és az ASCII ábrázolással a másikban. Hasznos eszköz a nyers adatokkal történő munkavégzésnél.</p>
+    <p xml:lang="fr">GHex peut charger des données brutes de fichiers binaires et les afficher en vue de leur édition dans une vue traditionnelle d’éditeur hexadécimal. L’affichage est divisé en deux colonnes, avec les valeurs hexadécimales dans une colonne et leur représentation ASCII dans l’autre. Un outil bien pratique pour travailler sur des données brutes.</p>
+    <p xml:lang="fi">GHex voi ladata raakadataa binääritiedostoista ja näyttää tiedot muokkausta varten perinteisessä heksamuokkainnäkymässä. Näkymä on jaettu kahteen palstaan, heksadesimaaliarvot yhdessä ja ASCII-esitys toisessa.</p>
+    <p xml:lang="es">GHex puede cargar datos en bruto desde archivos binarios y mostrarlos para su edición en el visor hexadecimal tradicional. La vista de divide en dos columnas , una con los valores hexadecimales y otra con su representación ASCII. Es una herramienta muy útil para trabajar con datos en bruto.</p>
+    <p xml:lang="en_GB">GHex can load raw data from binary files and display them for editing in the traditional hex editor view. The display is split in two columns, with hexadecimal values in one column and the ASCII representation in the other. A useful tool for working with raw data.</p>
+    <p xml:lang="de">GHex kann Rohdaten aus Binärdateien laden und diese zur Bearbeitung in einem traditionellen Hexadezimaleditor anzeigen. Die Ansicht ist in zwei Spalten unterteilt, mit den Hexadezimalwerten auf der einen Seite und der ASCII-Darstellung auf der anderen. Es ist ein nützliches Werkzeug für den Umgang mit Rohdaten.</p>
+    <p xml:lang="da">GHex kan indlæse rådata fra binære filer og vise dem til redigering i den traditionelle heksredigeringsvisning. Visningen er opslittet i to kolonner, med heksadecimale værdier i den ene kolonne og ASCII-repræsentationen i den anden. Et nyttigt værktøj til at arbejde med rådata.</p>
+    <p xml:lang="cs">GHex umí načíst surová data z binárních souborů a zobrazit je pro úpravy v tradiční podobě hexadecimálních editorů. Zobrazení je rozdělené do dvou sloupců, s šestnáctkovými hodnotami v jednom sloupci a znaky ASCII v druhém. Jde o užitečný nástroj pro práci se surovými daty.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://kalev.fedorapeople.org/ghex.png</image>
+    </screenshot>
+  </screenshots>
+  <kudos>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>UserDocs</kudo>
+  </kudos>
+  <provides>
+    <binary>ghex</binary>
+    <id>ghex.desktop</id>
+    <id>org.gnome.ghex</id>
+  </provides>
+  <releases>
+    <release version="3.41.1" date="2021-12-04"/>
+    <release version="3.41.0" date="2021-09-24"/>
+    <release version="3.18.4" date="2019-07-13"/>
+    <release version="3.18.3" date="2016-10-12"/>
+    <release version="3.18.2" date="2016-06-13"/>
+  </releases>
+  <url type="homepage">https://wiki.gnome.org/Apps/Ghex</url>
+  <url type="bugtracker">https://gitlab.gnome.org/GNOME/ghex/issues</url>
+  <url type="donation">http://www.gnome.org/friends/</url>
+  <url type="help">https://help.gnome.org/users/ghex/stable/</url>
+  <launchable type="desktop-id">org.gnome.GHex.desktop</launchable>
+  <developer_name>The GNOME Project</developer_name>
+  <developer_name xml:lang="uk">Проєкт GNOME</developer_name>
+  <developer_name xml:lang="tr">GNOME Projesi</developer_name>
+  <developer_name xml:lang="sv">GNOME-projektet</developer_name>
+  <developer_name xml:lang="sr">Пројекат Гном</developer_name>
+  <developer_name xml:lang="sl">Projekt GNOME</developer_name>
+  <developer_name xml:lang="ro">Proiectul GNOME</developer_name>
+  <developer_name xml:lang="pt_BR">O Projeto GNOME</developer_name>
+  <developer_name xml:lang="pl">Projekt GNOME</developer_name>
+  <developer_name xml:lang="lt">GNOME projektas</developer_name>
+  <developer_name xml:lang="ko">그놈 프로젝트</developer_name>
+  <developer_name xml:lang="ja">The GNOME Project</developer_name>
+  <developer_name xml:lang="id">Proyek GNOME</developer_name>
+  <developer_name xml:lang="hu">A GNOME projekt</developer_name>
+  <developer_name xml:lang="fr">Le projet GNOME</developer_name>
+  <developer_name xml:lang="fi">Gnome-projekti</developer_name>
+  <developer_name xml:lang="es">El Proyecto GNOME</developer_name>
+  <developer_name xml:lang="en_GB">The GNOME Project</developer_name>
+  <developer_name xml:lang="da">GNOME-projektet</developer_name>
+  <developer_name xml:lang="cs">Projekt GNOME</developer_name>
+  <update_contact>kalevlember_at_gmail.com</update_contact>
+  <project_group>GNOME</project_group>
+  <translation type="gettext">ghex-3.0</translation>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>

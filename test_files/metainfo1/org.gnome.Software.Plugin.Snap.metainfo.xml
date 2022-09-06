@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2013-2016 Richard Hughes <richard@hughsie.com> -->
+<component type="addon">
+  <id>org.gnome.Software.Plugin.Snap</id>
+  <extends>org.gnome.Software.desktop</extends>
+  <name>Snap Support</name>
+  <name xml:lang="zh_TW">Snap 支援</name>
+  <name xml:lang="zh_CN">Snap 支持</name>
+  <name xml:lang="vi">Hỗ trợ Snap</name>
+  <name xml:lang="uk">Підтримка Snap</name>
+  <name xml:lang="tr">Snap Desteği</name>
+  <name xml:lang="sv">Snap-stöd</name>
+  <name xml:lang="sr">Подршка за Снеп (Snap)</name>
+  <name xml:lang="sl">Podpora Snap</name>
+  <name xml:lang="sk">Podpora balíkov Snap</name>
+  <name xml:lang="ru">Поддержка Snap</name>
+  <name xml:lang="ro">Suport Snap</name>
+  <name xml:lang="pt_BR">Suporte a Snap</name>
+  <name xml:lang="pt">Suporte para Snap</name>
+  <name xml:lang="pl">Obsługa pakietów Snap</name>
+  <name xml:lang="pa">ਸਨੈਪ ਸਹਿਯੋਗ</name>
+  <name xml:lang="oc">Presa en carga de Snap</name>
+  <name xml:lang="nl">Snap-ondersteuning</name>
+  <name xml:lang="ne">स्न्याप स्टोर समर्थन गर्नुहोस्</name>
+  <name xml:lang="nb">Støtte for Snap</name>
+  <name xml:lang="my">Snapထောက်ပံ့မှု</name>
+  <name xml:lang="ms">Sokongan Snap</name>
+  <name xml:lang="mjw">Snap Support</name>
+  <name xml:lang="lv">Snap atbalsts</name>
+  <name xml:lang="lt">Snap palaikymas</name>
+  <name xml:lang="ko">스냅 지원</name>
+  <name xml:lang="kk">Snap қолдауы</name>
+  <name xml:lang="ja">Snap サポート</name>
+  <name xml:lang="it">Supporto Snap</name>
+  <name xml:lang="is">Stuðningur við Snap</name>
+  <name xml:lang="id">Dukungan Snap</name>
+  <name xml:lang="hu">Snap támogatás</name>
+  <name xml:lang="hr">Snap podrška</name>
+  <name xml:lang="he">תמיכה ב־Snap</name>
+  <name xml:lang="gl">Compatibilidade de Snap</name>
+  <name xml:lang="fur">Supuart Snap</name>
+  <name xml:lang="fr">Prise en charge de Snap</name>
+  <name xml:lang="fi">Snap-tuki</name>
+  <name xml:lang="fa">پشتیبانی اسنپ</name>
+  <name xml:lang="eu">Snap euskarria</name>
+  <name xml:lang="es">Soporte de Snap</name>
+  <name xml:lang="eo">Snap-subteno</name>
+  <name xml:lang="en_GB">Snap Support</name>
+  <name xml:lang="el">Υποστήριξη Snap</name>
+  <name xml:lang="de">Unterstützung von Snap</name>
+  <name xml:lang="da">Understøttelse af Snap</name>
+  <name xml:lang="cs">Podpora pro Snap</name>
+  <name xml:lang="ca">Compatibilitat amb Snap</name>
+  <name xml:lang="bg">Поддръжка на „Snap“</name>
+  <name xml:lang="be">Падтрымка Snap</name>
+  <name xml:lang="af">Snap-ondersteuning</name>
+  <summary>A snap is a universal Linux package</summary>
+  <summary xml:lang="zh_TW">Snap 是一種通用的 Linux 軟體包</summary>
+  <summary xml:lang="zh_CN">Snap 是个通用的 Linux 程序包</summary>
+  <summary xml:lang="vi">Snap (tệp ứng dụng chạy độc lập) là một gói ứng dụng dùng được trên nhiều bản Linux khác nhau</summary>
+  <summary xml:lang="uk">Snap — універсальний пакунок Linux</summary>
+  <summary xml:lang="tr">Snap, evrensel Linux paketidir</summary>
+  <summary xml:lang="sv">En snap är ett universellt Linuxpaket</summary>
+  <summary xml:lang="sr@latin">Snep je univerzalni Linuks paket</summary>
+  <summary xml:lang="sr">Снеп је универзални Линукс пакет</summary>
+  <summary xml:lang="sl">»Snap« je univerzalni paket operacijskega sistema Linux</summary>
+  <summary xml:lang="sk">Snap je univerzálnym balíkom pre systém Linux</summary>
+  <summary xml:lang="ru">Snap — универсальный формат пакетов для Linux</summary>
+  <summary xml:lang="ro">Un snap este un pachet Linux universal</summary>
+  <summary xml:lang="pt_BR">Um snap é um pacote universal de Linux</summary>
+  <summary xml:lang="pt">Um snap é um pacote universal para Linux</summary>
+  <summary xml:lang="pl">Snap to uniwersalny pakiet dla systemu Linux</summary>
+  <summary xml:lang="pa">ਸਨੈਪ ਯੂਨੀਵਰਸਲ ਲੀਨਕਸ ਪੈਕੇਜ ਹੈ</summary>
+  <summary xml:lang="oc">Un snap es un paquet logicial Linux universal</summary>
+  <summary xml:lang="nl">Een snap is een universeel Linux-pakket</summary>
+  <summary xml:lang="nb">En snap er en universell Linux-pakke</summary>
+  <summary xml:lang="my">Snapသည် စကြာဝဠာသုံးလင်းနပ်ပတ်ကေ့ချ်ဖြစ်သည်</summary>
+  <summary xml:lang="ms">Snap merupakan pakej Linux universal</summary>
+  <summary xml:lang="ml">സ്നാപ്പ് ഒരു സാർവത്രിക ലിനക്സ് പാക്കേജാണ്</summary>
+  <summary xml:lang="lv">snap ir universāla Linux pakotne</summary>
+  <summary xml:lang="lt">Snap yra universalus Linux paketas</summary>
+  <summary xml:lang="ko">스냅은 통합 리눅스 패키지 형식입니다</summary>
+  <summary xml:lang="kk">Snap - бұл әмбебап Linux дестесі</summary>
+  <summary xml:lang="ja">Snap は汎用的な Linux パッケージです</summary>
+  <summary xml:lang="it">Uno snap è un pacchetto universale per Linux</summary>
+  <summary xml:lang="id">Snap adalah paket Linux yang universal</summary>
+  <summary xml:lang="ia">Un snap es un pacchetto universal de Linux</summary>
+  <summary xml:lang="hu">A snapek univerzális Linuxos csomagok</summary>
+  <summary xml:lang="hr">Snap je univerzalan Linux paket</summary>
+  <summary xml:lang="hi">स्नैप एक विश्वव्यापी Linux पैकेज है</summary>
+  <summary xml:lang="he">‏Snap זו חבילה שנתמכת במגוון הפצות לינוקס</summary>
+  <summary xml:lang="gl">Un snap é un paquete universal de Linux</summary>
+  <summary xml:lang="gd">’S e pacaid Linux uile-choitcheann a th’ ann an snap</summary>
+  <summary xml:lang="fur">Un snap al è un pachet universâl par Linux</summary>
+  <summary xml:lang="fr">Un snap est un paquet Linux universel</summary>
+  <summary xml:lang="fi">Snap on yleinen Linux-paketti</summary>
+  <summary xml:lang="fa">اسنپ یک بستهٔ جهانی گنو/لینوکسی است</summary>
+  <summary xml:lang="eu">Snap Linuxeko pakete unibertsal bat da</summary>
+  <summary xml:lang="es">Un snap es un paquete universal de Linux</summary>
+  <summary xml:lang="eo">Snapo estas universala Linuksa pako</summary>
+  <summary xml:lang="en_GB">A snap is a universal Linux package</summary>
+  <summary xml:lang="el">Το snap είναι ένα καθολικό πακέτο του Linux</summary>
+  <summary xml:lang="de">Ein Snap ist ein universelles Linux-Paket</summary>
+  <summary xml:lang="da">En snap er en universel Linux-pakke</summary>
+  <summary xml:lang="cs">Snap je univerzální linuxový balíček</summary>
+  <summary xml:lang="ca@valencia">Un «snap» és un paquet Linux universal</summary>
+  <summary xml:lang="ca">Un «snap» és un paquet Linux universal</summary>
+  <summary xml:lang="bs">Snap-ovi su univerzalni Linux paketi</summary>
+  <summary xml:lang="bg">„Snap“ е универсален пакет за Linux</summary>
+  <summary xml:lang="be">Snap – гэта ўніверсальны фармат пакетаў для Linux</summary>
+  <summary xml:lang="af">'n Snap is 'n universele Linux pakket</summary>
+  <url type="homepage">https://snapcraft.io/</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <update_contact>richard_at_hughsie.com</update_contact>
+</component>
